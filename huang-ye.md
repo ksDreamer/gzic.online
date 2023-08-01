@@ -8,7 +8,7 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 ### 校级
 
-<table><thead><tr><th width="210.99999999999997">名称</th><th width="279">网址</th><th>其他</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td></td></tr><tr><td>华南理工大学微信公众号</td><td></td><td></td></tr><tr><td>华南理工大学 Bilibili</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="229.99999999999997">名称</th><th width="354">网址/微信号</th><th>二维码</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr><tr><td>华南理工大学微信公众号</td><td>scut1117</td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际微信公众号</td><td>gzicwx</td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr></tbody></table>
 
 ### 院、系、部门级
 
