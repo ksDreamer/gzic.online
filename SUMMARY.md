@@ -7,3 +7,4 @@
 * [学生组织篇](xue-sheng-zu-zhi-pian.md)
 * [去向篇](qu-xiang-pian.md)
 * [交通](jiao-tong.md)
+* [关于](guan-yu.md)
