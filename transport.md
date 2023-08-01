@@ -2,9 +2,7 @@
 
 ## 校区地图
 
-![](.gitbook/assets/校区地图.jpeg)
-
-（来源华工国际官方微信号“华南理工广州国际校区”）
+<figure><img src=".gitbook/assets/校区地图.jpeg" alt=""><figcaption><p>（来源华工国际官方微信号“华南理工广州国际校区”）</p></figcaption></figure>
 
 国际校区的布局是南北朝向，从西向东分别以 A 到 G 排序，从南到北以 1 到 6 排序，例如国际校区的图书馆，就位于 E3 的位置。
 
