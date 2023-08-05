@@ -44,7 +44,7 @@ CS 自学手册 [https://csdiy.wiki](https://csdiy.wiki)
 
 开发维护：
 
-高梦扬、叶子绿
+
 
 内容提供：
 
