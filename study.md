@@ -28,6 +28,8 @@
 
 ## 培养方案
 
+2023年全华工的院系专业介绍页面中有提及：[http://admission.scut.edu.cn/30760/list.htm](http://admission.scut.edu.cn/30760/list.htm)
+
 吴院：[http://admission.scut.edu.cn/2019/0531/c30760a452526/page.htm](http://admission.scut.edu.cn/2019/0531/c30760a452526/page.htm)
 
 生医：[http://admission.scut.edu.cn/2019/0531/c30760a452525/page.htm](http://admission.scut.edu.cn/2019/0531/c30760a452525/page.htm)
