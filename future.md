@@ -16,7 +16,11 @@
 
 （邀请19、20、21级 DIY 或项目出国深造的同学来分享申请/准备/就读体验，可以另起一个项目并链接指向，叫华南理工大学飞跃手册）
 
-可参考南方科技大学飞跃手册[https://sustech-application.com](https://sustech-application.com)、清华大学飞跃手册[https://feiyue.online](https://feiyue.online)
+列出华工（国际）近五年的交换/访学/出境深造项目
+
+
+
+互联网范围的资源：B 站、知乎、豆瓣等公共平台；一亩三分地等留学论坛；其他学校学生的经验例如南方科技大学飞跃手册[https://sustech-application.com](https://sustech-application.com)、清华大学飞跃手册[https://feiyue.online](https://feiyue.online)
 
 ## 就业
 
@@ -31,4 +35,6 @@
 “懂得很多道理，却依旧过不好这一生”
 
 以后阅读这本小册子的人可能千千万，但大家之后的去向和境遇也许千差万别，这可能是由于同学们认知能力、运气与机遇、执行能力、家里提供的支持等等不同所导致的。
+
+出路不只一条，相信出路不只一条。只要自己没有放弃自己，就还有路走。
 
