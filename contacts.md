@@ -8,27 +8,21 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 ### 校级
 
-<table><thead><tr><th width="229.99999999999997">名称</th><th width="354">网址/微信号</th><th>二维码</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr><tr><td>华南理工大学微信公众号</td><td>scut1117</td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际微信公众号</td><td>gzicwx</td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr></tbody></table>
+<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td><img src=".gitbook/assets/image.png" alt=""></td></tr></tbody></table>
 
 ### 院、系、部门级
 
-| 名称        | 网址 | 其他 |
-| --------- | -- | -- |
-| 铭诚书院      |    |    |
-| 峻德书院      |    |    |
-| 吴贤铭智能工程学院 |    |    |
-| 微电子学院     |    |    |
-| 集成电路学院    |    |    |
-| 未来技术学院    |    |    |
-| 前沿软物质学院   |    |    |
-| 生物医学工程学院  |    |    |
-|           |    |    |
+<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>铭诚书院</td><td><a href="http://www2.scut.edu.cn/mcsy/">http://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1).png" alt=""></td></tr><tr><td>峻德书院</td><td><a href="http://www2.scut.edu.cn/jdsy/main.htm">http://www2.scut.edu.cn/jdsy/main.htm</a></td><td><img src=".gitbook/assets/image (2).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="http://www2.scut.edu.cn/wusie/main.htm">http://www2.scut.edu.cn/wusie/main.htm</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">http://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">http://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="http://www2.scut.edu.cn/SESM/">http://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">http://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr><tr><td>华南理工大学研究生</td><td><a href="http://www2.scut.edu.cn/graduate/">http://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (9).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="http://admission.scut.edu.cn">http://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a><br></p></td><td><img src=".gitbook/assets/image (11).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (12).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
 ### 信息类
 
 图书馆、招生办
 
 ## 学生社团
+
+请跳转“学生组织篇”
 
 ## 地址与联系方式
 
@@ -64,6 +58,6 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 
 \
-
+[http://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm](http://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm)
 
 [https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
