@@ -1,6 +1,6 @@
 # Table of contents
 
-* [华工手册](README.md)
+* [README](README.md)
 * [如果你是新生](ru-guo-ni-shi-xin-sheng.md)
 * [黄页](contacts.md)
 * [学习篇](study.md)
