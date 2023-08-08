@@ -57,8 +57,8 @@
 
 
 
-{% content-ref url="ru-guo-ni-shi-xin-sheng.md" %}
-[ru-guo-ni-shi-xin-sheng.md](ru-guo-ni-shi-xin-sheng.md)
+{% content-ref url="freshman.md" %}
+[freshman.md](freshman.md)
 {% endcontent-ref %}
 
 {% content-ref url="contacts.md" %}
