@@ -2,21 +2,11 @@
 
 ## 作息表
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption><p>“华工鲤咕”微信公众号回复”作息表“获取</p></figcaption></figure>
 
-## 校历
 
-每年校历可以从官网获得：
 
-[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011)
-
-{% file src=".gitbook/assets/华南理工大学2023~2024学年度第一学期校历.pdf" %}
-
-### 往年归档
-
-{% file src=".gitbook/assets/华南理工大学2022~2023学年第二学期校历.pdf" %}
-
-## 生活区简介
+## 国际校区生活区简介
 
 D5e 一楼的一站式服务中心可以提供很多帮助，可以借到小型医药箱和各种工具，可以充电，短时间存放物品，有免费称重仪，抵押学生卡可借各类体育器材，特定假期有传统食品提供，如粽子汤圆等。可以借晾衣架……（感觉还有很多）
 
@@ -99,4 +89,18 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 各学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接：
 
 [微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
+
+
+
+## 校历
+
+每年校历可以从官网获得：
+
+[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011)
+
+{% file src=".gitbook/assets/华南理工大学2023~2024学年度第一学期校历.pdf" %}
+
+{% file src=".gitbook/assets/华南理工大学2022~2023学年第二学期校历.pdf" %}
+
+
 

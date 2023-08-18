@@ -1,6 +1,6 @@
 # 交通篇
 
-## 微协攻略 | 国际校区攻略Ⅰ（学习生活篇）校区地图
+## 学习生活篇）校区地图
 
 <figure><img src=".gitbook/assets/校区地图.jpeg" alt=""><figcaption><p>（来源华工国际官方微信号“华南理工广州国际校区”）</p></figcaption></figure>
 

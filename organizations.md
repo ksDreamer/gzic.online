@@ -8,11 +8,9 @@ description: 每一位同学都是一个个活生生的独一无二的人，由�
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>在“华南鲤咕”公众号后台回复“社团”获取</p></figcaption></figure>
 
-每年在大学城和国际校区会举办百团大战进行社团招新，时间是十月初。
+每年十月初会在大学城和国际校区举办百团大战进行社团招新。
 
 ## 国际校区
-
-国际校区的社团/学生组织较少，各有特色。
 
 ### 微电子协会
 
@@ -74,9 +72,9 @@ SK于2019年国际校区的第一批本科生入住时正式进入国际校区�
 
 ④运营猫咪图鉴小程序
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt="" width="178"><figcaption></figcaption></figure>
 
-
+<figure><img src=".gitbook/assets/image (31).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## 欢迎投稿
 
