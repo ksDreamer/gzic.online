@@ -1,14 +1,14 @@
 ---
-description: 华南理工大学广州国际校区（后称华工国际或国际校区）常用的办公行政、后勤、生活服务联系方式和地址汇总，简称国际校区黄页
+description: 华南理工大学广州国际校区（后称华工国际或国际校区）常用的办公行政、后勤、生活服务联系方式和地址汇总，简称黄页
 ---
 
 # 黄页
 
-## &#x20;媒体和网站
+## 媒体和网站
 
 ### 校级
 
-<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td><img src=".gitbook/assets/image (4) (1).png" alt=""></td></tr></tbody></table>
+<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
 
 ### 院、系、部门级
 
@@ -16,11 +16,25 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
+## 校园自媒体和学生组织
+
+在校园信息方面，有一些校园自媒体和学生组织也做了很多的努力。例如17-20年大学城校区同学可能会关注一个微信公众号叫“信息阁”。它为很多学生提供了很多便利，还有很多很多，但是随着时间流逝和人员交替，部分有用的信息并没有传播的很好。
+
+学生会
+
+华南鲤咕（原华工微博协会）
+
+鲤工包打听（原华工包打听）
+
+华工小灯神
+
+信息阁
+
+小圈
 
 
-## 学生社团
 
-请跳转“学生组织篇”
+对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
 
 ## 地址与联系方式
 
