@@ -1,72 +1,10 @@
-# 学习篇
+# 认识你的专业
 
-国际校区的本科生专业均为新工科专业，采用全英/双语教学。
+国际校区本科生的专业均为新工科专业，采用全英/双语教学。
 
 [http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
 
-## 课程
 
-课程简介、教学大纲
-
-## 学生手册
-
-每年的本科生学生手册可以从官网获取
-
-[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081696f96b101696fd755450000](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081696f96b101696fd755450000)
-
-{% file src=".gitbook/assets/2022年本科生学生手册.pdf" %}
-
-{% file src=".gitbook/assets/2021年本科生学生手册.pdf" %}
-
-每年的研究生学生手册可以从官网获取
-
-[http://www2.scut.edu.cn/graduate/yjssc/list.htm](http://www2.scut.edu.cn/graduate/yjssc/list.htm)
-
-{% file src=".gitbook/assets/2022年研究生手册.pdf" %}
-
-{% file src=".gitbook/assets/2021年研究生手册.pdf" %}
-
-## 培养方案
-
-2023年全华工的院系专业介绍页面中有提及：[http://admission.scut.edu.cn/30760/list.htm](http://admission.scut.edu.cn/30760/list.htm)
-
-吴院：[http://admission.scut.edu.cn/2019/0531/c30760a452526/page.htm](http://admission.scut.edu.cn/2019/0531/c30760a452526/page.htm)
-
-生医：[http://admission.scut.edu.cn/2019/0531/c30760a452525/page.htm](http://admission.scut.edu.cn/2019/0531/c30760a452525/page.htm)
-
-软物质：[http://admission.scut.edu.cn/2019/0531/c30760a452527/page.htm](http://admission.scut.edu.cn/2019/0531/c30760a452527/page.htm)
-
-微电子：[http://admission.scut.edu.cn/2019/0531/c30760a452560/page.htm](http://admission.scut.edu.cn/2019/0531/c30760a452560/page.htm)
-
-未来院：[http://admission.scut.edu.cn/2021/0525/c30760a452529/page.htm](http://admission.scut.edu.cn/2021/0525/c30760a452529/page.htm)
-
-## 学习建议与攻略
-
-### 学生邮箱教育认证
-
-在门户里如果看到右下角邮箱还未注册，点击该链接进去（[https://stuemail.scut.edu.cn](https://stuemail.scut.edu.cn)）
-
-![](.gitbook/assets/image.png)
-
-填写相关信息，注册即可。选好学院后，学院编号会自动填写。
-
-### 搜索引擎推荐
-
-我们应当掌握一定的信息检索能力，以目前（2023年）搜索引擎提供信息质量来看，建议大家在正常网络情况下使用必应搜索引擎。可参考：
-
-[在「魏则西事件」中，除了抵制百度，还有哪些更重要的事情？ - 知乎 ](https://www.zhihu.com/question/45131598)
-
-[为什么百度搜索引擎越做越差？ - 知乎](https://www.zhihu.com/question/600520290)
-
-鼓励大家掌握一定的搜索技巧，例如用关键词搜索，尽量避免用自然语言描述；善用 "site: xxxx.com" "filetype = xxx" 等技巧； 注意信息源，是一手信息还是转载加工后的信息，是事实还是观点，使用范围和发表时间……
-
-AI 技术蓬勃发展，自然语言处理（NLP）技术发展日益成熟，善用 AI/GPT 等技术也能很好帮助到自己的生活、学习等多个方面。
-
-### 学习经验分享
-
-来自学院、书院、学生组织和个人的分享汇总，请查看飞跃手册。
-
-### 对专业的认知
 
 ### 集成电路
 
@@ -175,4 +113,3 @@ Python(选修课但所有人都默认选)
 缺点:交叉学科的特点便是广而不精。本科阶段的课程设立更加注重全面学习，
 
 因此即便你已经决定了往后的发展方向也还是需要上对该方向帮助不大的课程， 而真正需要的内容又只能靠自学。另外，本校的生物医学科学与工程学院起源于材料学院，多数课题组的研究方向也更偏向材料学。最重要的一点是，由于生物医学工程领域触及尖端研究，国内相关产业还不发达，所以生物医学工程的公司对本科生的需求并不大，毕竟本科生的知识和技能还达不到要求。如果想做研究， 最好读研读博，努力提升自身学业水平。
-

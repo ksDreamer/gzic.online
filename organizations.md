@@ -34,7 +34,7 @@ description: 每一位同学都是一个个活生生的独一无二的人，由�
 
 RobotIC 机器人实验室是面向华南理工大学全体本科生的工科实验室，成立于2022年12月，主要参加ROBOCON全国大学生机器人大赛等工科竞赛，进行机器人相关技术和知识的科普教育，承接学生参观和英才计划，对实验室研发成果进行转化并以论文或专利的形式发表。2023年首次参加 Robocon 全国大学生机器人大赛便取得了全国三等奖的好成绩。
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 RobotIC 机器人实验室长期欢迎：
 
@@ -44,7 +44,9 @@ RobotIC 机器人实验室长期欢迎：
 
 写作组：对论文和专利写作感兴趣的同学;
 
-教育组：对进行机器人普及教育、成为机器人科普活动讲师感兴趣的同学;
+教育组：对进行机器人普及教育、成为机器人科普活动讲师感兴趣的同学。
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### SK 街舞社
 

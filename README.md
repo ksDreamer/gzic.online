@@ -28,8 +28,8 @@
 
 | 名称           |                                            | 二维码                                                          |
 | ------------ | ------------------------------------------ | ------------------------------------------------------------ |
-| GZIC 小圈（公众号） | 这是小圈的公众号，会发一些推文，靠这个来同步校园信息。                | ![](<.gitbook/assets/image (1).png>)                         |
-| 小圈（微信好友）     | 这个微信号平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。 | ![](<.gitbook/assets/image (1) (1).png>)                     |
+| GZIC 小圈（公众号） | 这是小圈的公众号，会发一些推文，靠这个来同步校园信息。                | ![](<.gitbook/assets/image (1) (1).png>)                     |
+| 小圈（微信好友）     | 这个微信号平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。 | ![](<.gitbook/assets/image (1) (1) (1).png>)                 |
 | 华工手册共建群（QQ群） | 长期有效的反馈和沟通渠道。群号：850188565                  | ![](.gitbook/assets/dabc1f74a10c002e30207ac7ac842d2a\_0.jpg) |
 
 **华工手册面向华南理工大学所有人士，欢迎大家一起参与建设。**（参与方式详见[关于](https://www.gzic.online/about)）
@@ -77,8 +77,8 @@ Due to the time and ability limits, we didn't present this manual in other langu
 [contacts.md](contacts.md)
 {% endcontent-ref %}
 
-{% content-ref url="study.md" %}
-[study.md](study.md)
+{% content-ref url="xue-xi-pian/study.md" %}
+[study.md](xue-xi-pian/study.md)
 {% endcontent-ref %}
 
 {% content-ref url="life.md" %}
