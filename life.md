@@ -2,6 +2,8 @@
 
 ## 作息表
 
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
 ## 校历
 
 每年校历可以从官网获得：
@@ -93,4 +95,8 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 ## 生活经验分享
 
 面向大家广泛征集，校内超市和饭堂选择等，校外附近哪里好吃好玩。怎么交通方便
+
+各学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接：
+
+[微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
 
