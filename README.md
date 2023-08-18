@@ -93,8 +93,8 @@ Due to the time and ability limits, we didn't present this manual in other langu
 [transport.md](transport.md)
 {% endcontent-ref %}
 
-{% content-ref url="li-zhi-pian.md" %}
-[li-zhi-pian.md](li-zhi-pian.md)
+{% content-ref url="goal.md" %}
+[goal.md](goal.md)
 {% endcontent-ref %}
 
 {% content-ref url="future.md" %}
