@@ -1,34 +1,94 @@
 # 生活篇
 
+广州地处中国南方，天气湿热，一年四季大部分可以当成夏季。衣服、床上用品可以通过**快递、邮寄等**方式寄到学校，很多生活用品也可以到校再买。
+
+每个人的生活习惯和行为模式，包括卫生标准、作息习惯等不一定能完全吻合，不应该强制每个人做到一样。如果在生活中遇到矛盾，尽量多多沟通和协商，求同存异，互相尊重和理解。如果有难以解决的矛盾再另寻他解。
+
+关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么交通方便等话题，我们面向所有人广泛征集，同时学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接：
+
+### 五山校区
+
+[微协攻略 | 五山各区全方位攻略](https://mp.weixin.qq.com/s/V6-JSw3DMWPMsSN5x-Wzdg)
+
+[微协攻略 | 五山宿舍生存指南](https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ)
+
+[新生攻略 | 第二弹五山攻略篇来啦，还不一键收藏](https://mp.weixin.qq.com/s/\_FScYoth47Ibh0ujFznG3w)
+
+### **大学城**
+
+[微协攻略 | 南校吃喝玩乐篇](https://mp.weixin.qq.com/s/oUIhkvyibUaLRc-nrot-Kw)
+
+[微协攻略 | 南校住行攻略](https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw)
+
+[微协攻略 | 大学城校区to do list之校内打卡篇](https://mp.weixin.qq.com/s/6VrZyEgEEKZNGTrYuDSdwg)
+
+[微协攻略 | 南校to do list 之校外打卡篇](https://mp.weixin.qq.com/s/DyFqa6ky\_WJ3XBGm9Hw6nw)
+
+[新生攻略丨大学城生活篇 值得收藏](https://mp.weixin.qq.com/s/Yof7Uf97Yclq\_CjJjIviEA)
+
+### 国际校区
+
+[微协攻略 | 国际校区攻略Ⅰ（学习生活篇）](https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg)
+
+[微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
+
+[新生攻略 | 国际篇——把美食与爱装进口袋](https://mp.weixin.qq.com/s/B\_SyQwZJjUMx9gdcOt2rXQ)
+
+（部分推文内容可能已经过时，可能有商业推广。）
+
 ## 作息表
 
 <figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption><p>“华工鲤咕”微信公众号回复”作息表“获取</p></figcaption></figure>
 
+## 网络
 
+三个校区校园里大部分地区都有无线 Wi-Fi “scut” 覆盖，通过统一认证系统登录。免费。
 
-## 国际校区生活区简介
+在宿舍里没有”scut“ ，如有需便要购买宿舍校园网服务，从而使用无线Wi-Fi “scut-student"，通过统一认证系统账号登录，每个用户最多可以同时登录2个无线设备和1台有线设备。
+
+iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试访问 [http://captive.apple.com](http://captive.apple.com)以激活验证页面。
+
+### 如何开网
+
+国际校区的本科生从大一开始便可开启宿舍的校园网，五山、大学城仅部分学院大一上可开网，若大一上学期未挂科，则大一下可申请开网，其余大二才可开网。
+
+可以看看微信公众号“信息阁”2020年的文章：[你能开网了不？很方便的开网教程](https://mp.weixin.qq.com/s/dpeUpyRHJyRMN4IwjnCG0A)
+
+或者微信公众号“鲤工包打听“2022年的文章：[包攻略 | 华工校园网开网攻略](https://mp.weixin.qq.com/s/m7gg1HKEgSBd2498TZpJow)
+
+校园网和联通有合作，向校方登记后使用流量可以免 VPN 登录校园网。
+
+### 断网限制
+
+网络供应的唯一标准是：若第二天上课，则24:00-6:00断网，放假时不断网。
+
+通常情况下本科生周日到周四晚上12点宿舍校园网会断网，研究生没有限制。
+
+## 水电费充值
+
+[微协攻略 | 新生必备！大学生活常用卡的使用指南快收好！](https://mp.weixin.qq.com/s/tvX7ZWmqfr7\_TnRzzMP-Qg)
+
+## 失物招领 <a href="#activity-name" id="activity-name"></a>
+
+[【包打听】失物招领攻略](https://mp.weixin.qq.com/s/3tgANUec7vRyuBs3t\_PaZA)
+
+此攻略缺乏国际校区相关信息，已汇总于此。
+
+| GZIC 智慧服务小程序（官方） | <img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"> |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 一站式收集汇总（校区物业）    | ![](https://3735389280-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media\&token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac)                                       |
+| 饭堂               | <p>D5：电梯旁的门进门左转的柜子</p><p>B1：餐区领取处旁的柜子</p><p>F5：南边进门左转的柜子</p>                                                                                                                                                                                               |
+| 失物招领微信群（校区物业）    | （暂没想好什么方式进入微信大于200人的群）                                                                                                                                                                                                                                     |
+
+单单国际校区就有好几个失物招领平台，但是信息不流通。 在我们看来，发布式是比较好的一种模式，但是用的人可能还是太少。如果大家都知晓并愿意使用同一个失物招领平台，丢了东西的知道该去哪里找，捡到东西的知道该去哪里告知。一个统一的平台，用的人越多，能帮到的人是不是也越多？
+
+关于失物招领模式，欢迎大家给校方提建议或沟通交流。也可以联系我们。学生、老师、物业后勤，还有所有关心学校发展的大家聚在一起，集思广益，为了华工变得更好做出贡献。
+
+## 国际校区生活攻略
 
 D5e 一楼的一站式服务中心可以提供很多帮助，可以借到小型医药箱和各种工具，可以充电，短时间存放物品，有免费称重仪，抵押学生卡可借各类体育器材，特定假期有传统食品提供，如粽子汤圆等。可以借晾衣架……（感觉还有很多）
 
 **请记住24小时服务电话：81181000**
-
-### 网络
-
-在校园里大部分地区都有无线 Wi-Fi “scut” 覆盖，通过统一认证系统登录。
-
-在宿舍里没有”SCUT“ Wi-Fi，如有需便要购买宿舍校园网服务，从而使用无线Wi-Fi “scut-student"。
-
-在宿舍内也是通过统一认证系统账号登录，每个用户最多可以同时登录2个无线设备和1台有线设备。
-
-iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试访问 [http://captive.apple.com](http://captive.apple.com)以激活验证页面。
-
-价格套餐
-
-校园网和联通合作，加钱可提高网速
-
-### 断网限制
-
-本科生周日到下周四晚上12点宿舍校园网会断网，研究生没有限制。
 
 ### 用圈存机充值热水(TD)
 
@@ -42,7 +102,7 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 
 ### 报修
 
-可以通过小程序“GZIC智慧服务”报修，详情请查看这篇链接：[https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
+可以通过小程序“GZIC智慧服务”报修，详情请查看：[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
 
 ### 门禁
 
@@ -81,16 +141,6 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 ### 贴海报（TD）
 
 各种公告栏想张贴东西是有个申请流程的，跟一站式 具体也忘了 好像是辅导员和几个组织的签名
-
-## 生活经验分享
-
-面向大家广泛征集，校内超市和饭堂选择等，校外附近哪里好吃好玩。怎么交通方便
-
-各学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接：
-
-[微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
-
-
 
 ## 校历
 
