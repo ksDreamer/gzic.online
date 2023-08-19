@@ -6,6 +6,8 @@
 
 关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么交通方便等话题，我们面向所有人广泛征集，同时学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容可能已经过时，可能有商业推广）：
 
+[新生攻略 | 超实用！盘点企业微信&华工官网的各种功能](https://mp.weixin.qq.com/s/J4TYD\_eI-ffJi8HvXqpsFg)
+
 ### 五山校区
 
 [微协攻略 | 五山各区全方位攻略](https://mp.weixin.qq.com/s/V6-JSw3DMWPMsSN5x-Wzdg)
@@ -33,6 +35,8 @@
 [微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
 
 [新生攻略 | 国际篇——把美食与爱装进口袋](https://mp.weixin.qq.com/s/B\_SyQwZJjUMx9gdcOt2rXQ)
+
+[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
 
 ## 作息表
 

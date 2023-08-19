@@ -1,16 +1,19 @@
 # 认识你的专业
 
+可以看看微信公众号“华南鲤咕”制作的专业介绍推文：
+
+[华工最真实的专业介绍来啦，选专业还在犹豫什么！](https://mp.weixin.qq.com/s/GKDQaXg-9Was6U1AP-Mpkw)\
+
+
 ## 转专业
 
 [微协攻略 | 华工【转专业】如何转？最全转专业攻略请查收！](https://mp.weixin.qq.com/s/9H4tEz\_en\_RlEzUvvgHbDw)
 
 ## 国际校区专业 <a href="#activity-name" id="activity-name"></a>
 
-国际校区本科生的专业均为新工科专业，采用全英/双语教学。
+国际校区本科生的专业均为新工科专业，采用全英/双语教学。可以查看官方的宣传口径：[http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
 
-[http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
-
-
+以下为一些学生对国际校区所设本科生专业的认知。
 
 ### 集成电路
 
