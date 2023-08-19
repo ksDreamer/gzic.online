@@ -1,20 +1,20 @@
 # 交通篇
 
-## 学习生活篇）校区地图
+可以去华南理工大学官网查看三个校区的在线地图：[https://map.scut.edu.cn/login\_home.html](https://map.scut.edu.cn/login\_home.html)
+
+
 
 <figure><img src=".gitbook/assets/校区地图.jpeg" alt=""><figcaption><p>（来源华工国际官方微信号“华南理工广州国际校区”）</p></figcaption></figure>
 
-国际校区南北朝向，从西向东分别以 A 到 G 排序，从南到北以 1 到 6 排序，例如国际校区的图书馆，就位于 E3 的位置。
-
-可以去华南理工大学官网查看三校区在线地图：[https://map.scut.edu.cn/login\_home.html](https://map.scut.edu.cn/login\_home.html)
-
-另附由“华南鲤咕”出品的三校区地图：
+由“华南鲤咕”出品的三校区地图：
 
 <figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption><p>微协攻略 | 五山宿舍生存指南 <a href="https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ">https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption><p>微协攻略 | 南校住行攻略 <a href="https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw">https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption><p>微协攻略 | 国际校区攻略Ⅰ（学习生活篇）<a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg</a></p></figcaption></figure>
+
+国际校区南北朝向，从西向东分别以 A 到 G 排序，从南到北以 1 到 6 排序，例如国际校区的图书馆，就位于 E3 的位置。
 
 ## 出行方式
 
