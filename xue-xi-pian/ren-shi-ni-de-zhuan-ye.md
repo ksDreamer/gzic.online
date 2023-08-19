@@ -4,6 +4,8 @@
 
 [微协攻略 | 华工【转专业】如何转？最全转专业攻略请查收！](https://mp.weixin.qq.com/s/9H4tEz\_en\_RlEzUvvgHbDw)
 
+## 国际校区专业 <a href="#activity-name" id="activity-name"></a>
+
 国际校区本科生的专业均为新工科专业，采用全英/双语教学。
 
 [http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)

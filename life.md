@@ -4,7 +4,7 @@
 
 每个人的生活习惯和行为模式，包括卫生标准、作息习惯等不一定能完全吻合，不应该强制每个人做到一样。如果在生活中遇到矛盾，尽量多多沟通和协商，求同存异，互相尊重和理解。如果有难以解决的矛盾再另寻他解。
 
-关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么交通方便等话题，我们面向所有人广泛征集，同时学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接：
+关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么交通方便等话题，我们面向所有人广泛征集，同时学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容可能已经过时，可能有商业推广）：
 
 ### 五山校区
 
@@ -33,8 +33,6 @@
 [微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
 
 [新生攻略 | 国际篇——把美食与爱装进口袋](https://mp.weixin.qq.com/s/B\_SyQwZJjUMx9gdcOt2rXQ)
-
-（部分推文内容可能已经过时，可能有商业推广。）
 
 ## 作息表
 
@@ -74,11 +72,7 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 
 此攻略缺乏国际校区相关信息，已汇总于此。
 
-| GZIC 智慧服务小程序（官方） | <img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"> |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 一站式收集汇总（校区物业）    | ![](https://3735389280-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media\&token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac)                                       |
-| 饭堂               | <p>D5：电梯旁的门进门左转的柜子</p><p>B1：餐区领取处旁的柜子</p><p>F5：南边进门左转的柜子</p>                                                                                                                                                                                               |
-| 失物招领微信群（校区物业）    | （暂没想好什么方式进入微信大于200人的群）                                                                                                                                                                                                                                     |
+<table data-header-hidden><thead><tr><th width="481"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media&#x26;token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁门进门左转的柜子</p><p>B1：餐具领取处旁的柜子</p><p>F5：南边进门左转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
 
 单单国际校区就有好几个失物招领平台，但是信息不流通。 在我们看来，发布式是比较好的一种模式，但是用的人可能还是太少。如果大家都知晓并愿意使用同一个失物招领平台，丢了东西的知道该去哪里找，捡到东西的知道该去哪里告知。一个统一的平台，用的人越多，能帮到的人是不是也越多？
 
@@ -135,8 +129,6 @@ D5e 一楼的一站式服务中心可以提供很多帮助，可以借到小型�
 各设施的地址请跳转[黄页篇](https://www.gzic.online/contacts)
 
 乒乓球台、网球场等可能需要预约，预约方式是去 D5e 一楼的一站式服务中心填表。
-
-
 
 ### 贴海报（TD）
 

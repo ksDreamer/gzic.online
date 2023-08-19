@@ -106,17 +106,11 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 ### 失物招领渠道汇总
 
-
-
-<table><thead><tr><th width="390"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src=".gitbook/assets/image (2) (1).png" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src=".gitbook/assets/image (3) (1) (1).png" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁的门进门左转的柜子</p><p>B1：餐区领取处旁的柜子</p><p>F5：进门左转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
+<table><thead><tr><th width="488"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src=".gitbook/assets/image (2) (1).png" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src=".gitbook/assets/image (3) (1) (1).png" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯附近进门左转的柜子</p><p>B1：餐区领取处旁的柜子</p><p>F5：南边进门左转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
 
 ## 常用 Q 群
 
-| 名称        | 群号        | 二维码                                          |
-| --------- | --------- | -------------------------------------------- |
-| GZIC 跳蚤市场 | 153583134 | ![](<.gitbook/assets/image (2) (1) (1).png>) |
-| GZIC 拼车群  | 620601382 | ![](<.gitbook/assets/image (3) (1).png>)     |
-|           |           |                                              |
+<table><thead><tr><th width="238">名称</th><th width="263">群号</th><th>二维码</th></tr></thead><tbody><tr><td>GZIC 跳蚤市场</td><td>153583134</td><td><img src=".gitbook/assets/image (2) (1) (1).png" alt=""></td></tr><tr><td>GZIC 拼车群</td><td>620601382</td><td><img src=".gitbook/assets/image (3) (1).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 注：
 
