@@ -32,7 +32,7 @@
 
 ### 选校经验
 
-列出华工（国际）近五年的交换/访学/出境深造项目
+TD 列出华工（国际）近五年的交换/访学/出境深造项目
 
 互联网范围的资源：B 站、知乎、豆瓣等公共平台；一亩三分地等留学论坛；其他学校学生的经验例如南方科技大学飞跃手册[https://sustech-application.com](https://sustech-application.com)、清华大学飞跃手册[https://feiyue.online](https://feiyue.online)
 
