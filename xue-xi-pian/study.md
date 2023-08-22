@@ -4,17 +4,11 @@
 
 访问教务系统方法：
 
-点击华南理工大学官网右上角的“门户”进入统一门户：[https://my.scut.edu.cn/up/view?m=up#act=portal/viewhome](https://my.scut.edu.cn/up/view?m=up#act=portal/viewhome)
+点击华南理工大学官网右上角的“门户”进入统一门户：[https://my.scut.edu.cn/up/](https://my.scut.edu.cn/up/)
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-18 at 23.40.43.png" alt=""><figcaption></figcaption></figure>
 
 点击右侧第四栏“教务服务”中第二项“教务系统（学生端）“进入。
-
-
-
-
-
-
 
 ## 课程
 
@@ -32,7 +26,7 @@
 
 每年的研究生学生手册可以从官网获取
 
-[http://www2.scut.edu.cn/graduate/yjssc/list.htm](http://www2.scut.edu.cn/graduate/yjssc/list.htm)
+[https://www2.scut.edu.cn/graduate/yjssc/list.htm](https://www2.scut.edu.cn/graduate/yjssc/list.htm)
 
 {% file src="../.gitbook/assets/2022年研究生手册.pdf" %}
 

@@ -8,9 +8,11 @@
 
 包括留学生，包括已毕业的校友。
 
+
+
 ## 内容更新和传播
 
-**互联网访问地址：**[ **www.gzic.online**](https://www.gzic.online)
+**华工手册的互联网地址是** [**www.gzic.online**](https://www.gzic.online)
 
 **项目开源地址：** [**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
 
@@ -22,26 +24,26 @@
 
 参与方式如下：
 
-1.  Pull Request
+*   Pull Request
 
     适合有使用 Git/GitHub 经验的同学
 
     1. 在Github 页面 Fork 到自己仓库，进行投稿或更改。
     2. 本地修改完后提交并推送更改到自己的库
     3. 在 Github 中创建 Pull Request。
-2.  邮件提交
+*   邮件提交
 
     发送投稿/修改意见或想添加的内容到 gzic.online@outlook.com 邮箱
-3. 代理提交
-   1. 进入华工手册共建群（QQ群）：850188565
-   2. 提交规范编写的投稿/修改意见文件给管理员。
-   3. 由管理员代为上传。
+* 代理提交
+  1. 进入华工手册共建群（QQ群）：850188565
+  2. 提交规范编写的投稿/修改意见文件给管理员。
+  3. 由管理员代为上传。
 
 **让我们一起做一件功在当代利在千秋，长远来看造福万千的事！**
 
 ## 知识产权
 
-除了部分引用内容和链接（会在其后附原出处地址）以外，本手册所有正文内容未做特别声明均按照[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)协议进行分发。
+除了部分引用内容和链接（会在其后附原出处地址）以外，本手册所有正文内容未做特别声明均按照 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 协议进行分发。
 
 引用内容和链接内容的知识产权归原出处作者。
 

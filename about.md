@@ -32,44 +32,37 @@
 
 参与方式如下：
 
-1.  Pull Request
-
-    适合有使用 Git/GitHub 经验的同学
-
-    1. 在Github 页面 Fork 到自己仓库，进行投稿或更改。
-    2. 本地修改完后提交并推送更改到自己的库
-    3. 在 Github 中创建 Pull Request。
-2.  邮件提交
+* Pull Request\
+  适合有使用 Git/GitHub 经验的同学
+  1. 在Github 页面 Fork 到自己仓库，进行投稿或更改。
+  2. 本地修改完后提交并推送更改到自己的库
+  3. 在 Github 中创建 Pull Request。
+*   邮件提交
 
     发送投稿/修改意见或想添加的内容到 gzic.online@outlook.com 邮箱
-3. 代理提交
-   1. 进入华工手册 QQ 群：
-   2. 提交规范编写的投稿/修改意见文件给管理员。
-   3. 由管理员代为上传。
+* 代理提交
+  1. 进入华工手册 QQ 群：
+  2. 提交规范编写的投稿/修改意见文件给管理员。
+  3. 由管理员代为上传。
 
 我们鼓励用 Markdown 语言的 .md 格式进行投稿，如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，也可以直接以你习惯的文档形式投稿（any, e.g. `.txt` / word `.docx` / `.pdf`）
 
 ## 鸣谢
 
-**本项目受启发于以下网址或项目：**
+本项目受启发于以下网址或项目：
 
-**南科手册（**[**https://sustech.online**](https://sustech.online)**）**
-
-**上海交通大学生存手册（**[**https://survivesjtu.gitbook.io/survivesjtumanual/**](https://survivesjtu.gitbook.io/survivesjtumanual/)**）**
-
-**CS 自学指南（**[**https://csdiy.wiki**](https://csdiy.wiki)**）**
-
-**机器人工程师培养计划** [**https://zhuanlan.zhihu.com/p/22266788**](https://zhuanlan.zhihu.com/p/22266788)
+* 南科手册（[https://sustech.online](https://sustech.online)）
+* 上海交通大学生存手册 （[https://survivesjtu.gitbook.io/survivesjtumanual/](https://survivesjtu.gitbook.io/survivesjtumanual/)）
+* CS 自学指南（[https://csdiy.wiki](https://csdiy.wiki)）
+* 机器人工程师培养计划 [https://zhuanlan.zhihu.com/p/22266788](https://zhuanlan.zhihu.com/p/22266788)
 
 
 
 其他相关链接：
 
-南方科技大学飞跃手册 [https://sustech-application.com/#/](https://sustech-application.com/#/)
-
-清华飞跃手册 [https://feiyue.online](https://feiyue.online)
-
-浙江大学课程攻略共享计划 [https://qsctech.github.io/zju-icicles/](https://qsctech.github.io/zju-icicles/)
+* 南科飞跃手册 [https://sustech-application.com/#/](https://sustech-application.com/#/)
+* 清华飞跃手册 [https://feiyue.online](https://feiyue.online)
+* 浙江大学课程攻略共享计划 [https://qsctech.github.io/zju-icicles/](https://qsctech.github.io/zju-icicles/)
 
 ## 贡献者
 

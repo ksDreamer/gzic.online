@@ -1,5 +1,5 @@
 ---
-description: 华南理工大学广州国际校区（后称华工国际或国际校区）常用的办公行政、后勤、生活服务联系方式和地址汇总，简称黄页
+description: 华南理工大学广州国际校区（简称华工国际或国际校区）常用的办公行政、后勤、生活服务联系方式和地址汇总，简称黄页。
 ---
 
 # 黄页
@@ -8,11 +8,11 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 ### 校级
 
-<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际官网</td><td><a href="http://www2.scut.edu.cn/gzic/">http://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际官网</td><td><a href="https://www2.scut.edu.cn/gzic/">https://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
 
-### 院、系、部门级
+### 二级单位（院、系、部门）
 
-<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>铭诚书院</td><td><a href="http://www2.scut.edu.cn/mcsy/">http://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>峻德书院</td><td><a href="http://www2.scut.edu.cn/jdsy/main.htm">http://www2.scut.edu.cn/jdsy/main.htm</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="http://www2.scut.edu.cn/wusie/main.htm">http://www2.scut.edu.cn/wusie/main.htm</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">http://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">http://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="http://www2.scut.edu.cn/SESM/">http://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">http://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr><tr><td>华南理工大学研究生</td><td><a href="http://www2.scut.edu.cn/graduate/">http://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (9).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="http://admission.scut.edu.cn">http://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a><br></p></td><td><img src=".gitbook/assets/image (11).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (12).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>峻德书院</td><td><a href="https://www2.scut.edu.cn/jdsy/">https://www2.scut.edu.cn/jdsy/</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>铭诚书院</td><td><a href="https://www2.scut.edu.cn/mcsy/">https://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="https://www2.scut.edu.cn/wusie/">https://www2.scut.edu.cn/wusie/</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">https://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">https://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="https://www2.scut.edu.cn/sesm/">https://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">https://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr><tr><td>华南理工大学研究生</td><td><a href="https://www2.scut.edu.cn/graduate/">https://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (9).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="https://admission.scut.edu.cn">https://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a><br></p></td><td><img src=".gitbook/assets/image (11).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (12).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
@@ -20,19 +20,12 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 在校园信息方面，有一些校园自媒体和学生组织也做了很多的努力。例如17-20年大学城校区同学可能会关注一个微信公众号叫“信息阁”。它为很多学生提供了很多便利，还有很多很多，但是随着时间流逝和人员交替，部分有用的信息并没有传播的很好。
 
-学生会
-
-华南鲤咕（原华工微博协会）
-
-鲤工包打听（原华工包打听）
-
-华工小灯神
-
-信息阁
-
-小圈
-
-
+* 学生会
+* 华南鲤咕（原华工微博协会）
+* 鲤工包打听（原华工包打听）
+* 华工小灯神
+* 信息阁
+* 小圈
 
 对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
 
@@ -77,28 +70,28 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 ### 生活相关
 
-| 名称    | 地址                                  | 时间                                                                                                |
-| ----- | ----------------------------------- | ------------------------------------------------------------------------------------------------- |
-| D5餐厅  | D5a                                 | <p>早餐：6:30-9:00</p><p>午餐：11:00-13:00</p><p>晚餐：17:00-19:00</p><p>夜宵：20:30-22:30</p>                |
-| B1餐厅  | B1e                                 | <p>午餐：11:00-13:00</p><p>晚餐：17:00-19:00</p>                                                        |
-| F5餐厅  | F5                                  | <p>早餐： </p><p>工作日 7:30-10:00 </p><p>周末 8:00-10:00 </p><p>午餐：10:00-13:00 </p><p>晚餐：16:30-20:00</p> |
-| 体育馆   | D6                                  |                                                                                                   |
-| 全家超市  | D5-c116                             | 24小时                                                                                              |
-| 京东便利店 | D5-e115                             | 7:30-22:00                                                                                        |
-| 快递收发室 | D5g 一楼                              | 9:00-22:00                                                                                        |
-| 红堡书店  | D3e （D5过桥即到）                        | 10:00-19:30                                                                                       |
-| 水果店   | D5-c104                             | 10:00-22:30                                                                                       |
-| 理发店   | D5-c105                             | 10:00-22:30                                                                                       |
-| 文印店   | D5-c109                             | 10:00-22:00                                                                                       |
-| 健身房   | D5g 一楼                              | <p>7：30-9：00</p><p>15：00-22：00</p>                                                                |
-| 自助打印机 | D3b, D3d, D5d, D5g（均为一楼）            | 24小时                                                                                              |
-| 自助洗衣房 | D5e 一楼、D5d 二楼                       | 24小时                                                                                              |
-| 圈存机   | D5d, D5e, D5g, D5f, A4c, A4d (均为一楼） | 24小时                                                                                              |
-| ATM 机 | C3b 二楼师生服务中心、D5e 一楼                 | 24小时                                                                                              |
+| 名称    | 地址                                     | 时间                                                                                                |
+| ----- | -------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| D5餐厅  | D5a                                    | <p>早餐：6:30-9:00</p><p>午餐：11:00-13:00</p><p>晚餐：17:00-19:00</p><p>夜宵：20:30-22:30</p>                |
+| B1餐厅  | B1e                                    | <p>午餐：11:00-13:00</p><p>晚餐：17:00-19:00</p>                                                        |
+| F5餐厅  | F5                                     | <p>早餐： </p><p>工作日 7:30-10:00 </p><p>周末 8:00-10:00 </p><p>午餐：10:00-13:00 </p><p>晚餐：16:30-20:00</p> |
+| 体育馆   | D6                                     |                                                                                                   |
+| 全家超市  | D5-c116                                | 24小时                                                                                              |
+| 京东便利店 | D5-e115                                | 7:30-22:00                                                                                        |
+| 快递收发室 | D5g 一楼                                 | 9:00-22:00                                                                                        |
+| 红堡书店  | D3e （D5过桥即到）                           | 10:00-19:30                                                                                       |
+| 水果店   | D5-c104                                | 10:00-22:30                                                                                       |
+| 理发店   | D5-c105                                | 10:00-22:30                                                                                       |
+| 文印店   | D5-c109                                | 10:00-22:00                                                                                       |
+| 健身房   | D5g 一楼                                 | <p>7：30-9：00</p><p>15：00-22：00</p>                                                                |
+| 自助打印机 | A4c, A4d, D3d, D5d, D5f, D5g, F3a, F3d | 24小时                                                                                              |
+| 自助洗衣房 | D5e 一楼、D5d 二楼                          | 24小时                                                                                              |
+| 圈存机   | D5d, D5e, D5g, D5f, A4c, A4d (均为一楼）    | 24小时                                                                                              |
+| ATM 机 | C3b 二楼师生服务中心、D5e 一楼                    | 24小时                                                                                              |
 
 注：
 
-自助打印机的地点还未更新，圈存机位置需重新确认，F5 那一片是否开始住人不清楚。
+圈存机位置需重新确认，F5 那一片是否开始住人不清楚。
 
 寒暑假开放时间会变，具体以学校官方信息为准。
 
@@ -120,7 +113,6 @@ description: 华南理工大学广州国际校区（后称华工国际或国际�
 
 优先 QQ 是因为微信群维护起来低效且麻烦。QQ 群人数上限大。
 
-\
-[http://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm](http://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm)
+[组织机构 - 华南理工大学广州国际校区](https://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm)
 
-[https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
+[国际校区黄页 | 常用地址和联系方式汇总 - 华工国际生活圈 GZIC小圈 - 微信公众号](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
