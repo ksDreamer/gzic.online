@@ -20,12 +20,15 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 在校园信息方面，有一些校园自媒体和学生组织也做了很多的努力。例如17-20年大学城校区同学可能会关注一个微信公众号叫“信息阁”。它为很多学生提供了很多便利，还有很多很多：
 
-* 学生会
-* 华南鲤咕（原华工微博协会）
-* 鲤工包打听（原华工包打听）
-* 小灯神 GENIE（原华工小灯神）
-* 信息阁
-* GZIC 小圈
+| 名称                | 微信公众号二维码                              |
+| ----------------- | ------------------------------------- |
+| 华南理工大学学生会         | ![](<.gitbook/assets/image (40).png>) |
+| SCUT学生创新俱乐部（简称学创） | ![](<.gitbook/assets/image (39).png>) |
+| 华南鲤咕（原华工微博协会）     | ![](<.gitbook/assets/image (37).png>) |
+| 鲤工包打听（原华工包打听）     | ![](<.gitbook/assets/image (38).png>) |
+| 小灯神GENIE（原华工小灯神）  | ![](<.gitbook/assets/image (41).png>) |
+| 信息阁               | ![](<.gitbook/assets/image (42).png>) |
+| GZIC小圈            | ![](<.gitbook/assets/image (43).png>) |
 
 对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
 
