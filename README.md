@@ -1,5 +1,13 @@
 # README
 
+## 华工手册是什么？
+
+华工手册是一个聚合华南理工大学校园信息的项目，希望能为华工的学生、教职工、物业后勤、家属等人提供快捷信息查询服务。
+
+这个项目由华工学生发起，并欢迎所有华工人（包括留学生，包括毕业校友）参与建设。
+
+因为第一版编写成员主要来自于广州国际校区，所以部分内容会以国际校区为起点，我们希望能联合五山校区、大学城校区的华工人，逐步完善内容，最终，希望能汇聚世界各地的华工人，一起打造这份华工手册。
+
 ## 快捷入口
 
 {% content-ref url="freshman.md" %}
@@ -37,14 +45,6 @@
 {% content-ref url="about.md" %}
 [about.md](about.md)
 {% endcontent-ref %}
-
-## 华工手册是什么？
-
-华工手册是一个聚合华南理工大学校园信息的项目，希望能为华工的学生、教职工、物业后勤、家属等人提供快捷信息查询服务。
-
-这个项目由华工学生发起，并欢迎所有华工人（包括留学生，包括毕业校友）参与建设。
-
-因为第一版编写成员主要来自于广州国际校区，所以部分内容会以国际校区为起点，我们希望能联合五山校区、大学城校区的华工人，逐步完善内容，最终，希望能汇聚世界各地的华工人，一起打造这份华工手册。
 
 ## 内容更新和传播
 
@@ -85,4 +85,10 @@
 
 ## For International Students
 
-Due to the time and ability limits, we didn't present this manual in other languages. Please use the translation tools to translate the manual if necessary. If there is any question, please feel free to  send email to gzic.online@outlook.com.
+www.gzic.online (华工手册 in Chinese) is a project that aggregates the information in South China University of Technology (SCUT), hoping to provide quick information query services for students, professor, staff, logistics, family members and other people in SCUT.
+
+This project is initiated by students in SCUT, and welcomes all SCUTers (including international students and graduates) to participate in the construction.
+
+Because the members of the first edition are mainly from Guangzhou International Campus (GZIC), the content may be not as complete as you may imagine. We hope that we can unite all SCUTers, including people in the Wushan Campus and the University Town Campus, to improve the content. And finally, it's hoped that we can finally gather all SCUTers from all over the world to contribute this online manual together.
+
+Due to the time and ability limits, we didn't present this manual in other languages. Please use the translation tools to translate the manual if necessary. If there is any question, please feel free to send email to gzic.online@outlook.com.

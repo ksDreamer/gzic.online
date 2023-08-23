@@ -14,13 +14,13 @@
 
 ## 思考
 
-华工手册只是一点点小努力，不只是华工国际的学生想要便利地获取信息，华工的学生、教职工、物业后勤、家属等也想便利地获取信息。大了说南科大、清华大学，更大了说各种团队、公司、集团、工作室，乃至全中国、全天下的人或多或少都对信息获取有需求。
-
 2022年初，部分同学深感于国际校区信息稍显闭塞，尝试做一些信息聚合的努力，创建了一个微信公众号“华工国际生活圈”。做了几篇文章（国际校区兴趣社群、黄页、小程序操作指南，还有因为疫情严峻而加急制作的一篇返乡信息汇总），国际校区的学生也陆续建了一些生活相关的群聊。如今华工手册面世。面向全体华工人，也欢迎所有人一起参与建设，就像小圈，它不属于哪一个人，并且最终开放地面向大家。为的是促进校园信息流通、减少信息差。
 
 信息是人类社会发展最关键的资源之一，从石器时代结绳记事到如今互联网时代信息爆炸，每个人能获取的信息量不断增加，信息渠道也多了。对于人们来说有两个点值得考虑：一个是信息量过大难以找到自己所需的信息，另一个是各家都在打造流量入口信息流通呈现孤岛化。两者合在一起也许会导致很多事情，例如因为个性化推荐和用户画像给每个网民营造信息茧房、例如只知其一位置未知全貌带来的偏见误解、例如因为信息流通渠道的不畅通导致信息差和割韭菜……
 
 还有AI，随着大语言模型等人工智能技术发展，人们很可能迎来一个人人有AI助理的时代，你愿意让它/他/她去帮你整合信息吗？换言之，你愿意把影响自己判断选择，甚至影响你价值观的权利交由别人去吗？
+
+华工手册只是一点点小努力，不只是华工国际的学生想要便利地获取信息，华工的学生、教职工、物业后勤、家属等也想便利地获取信息。大了说南科大、清华大学，更大了说各种团队、公司、集团、工作室，乃至全中国、全天下的人或多或少都对信息获取有需求。
 
 对于个人来说，如何在这个时代掌握信息检索能力，减少信息差，是一件很有意义的事情。
 
@@ -41,7 +41,7 @@
 
     发送投稿/修改意见或想添加的内容到 gzic.online@outlook.com 邮箱
 * 代理提交
-  1. 进入华工手册 QQ 群：
+  1. 进入华工手册 QQ 群：850188565
   2. 提交规范编写的投稿/修改意见文件给管理员。
   3. 由管理员代为上传。
 
@@ -52,17 +52,16 @@
 本项目受启发于以下网址或项目：
 
 * 南科手册（[https://sustech.online](https://sustech.online)）
-* 上海交通大学生存手册 （[https://survivesjtu.gitbook.io/survivesjtumanual/](https://survivesjtu.gitbook.io/survivesjtumanual/)）
+* 上海交通大学生存手册（[https://survivesjtu.gitbook.io/survivesjtumanual/](https://survivesjtu.gitbook.io/survivesjtumanual/)）
 * CS 自学指南（[https://csdiy.wiki](https://csdiy.wiki)）
-* 机器人工程师培养计划 [https://zhuanlan.zhihu.com/p/22266788](https://zhuanlan.zhihu.com/p/22266788)
+* 机器人工程师培养计划（[https://zhuanlan.zhihu.com/p/22266788](https://zhuanlan.zhihu.com/p/22266788)）
 
+## 友链
 
-
-其他相关链接：
-
-* 南科飞跃手册 [https://sustech-application.com/#/](https://sustech-application.com/#/)
-* 清华飞跃手册 [https://feiyue.online](https://feiyue.online)
-* 浙江大学课程攻略共享计划 [https://qsctech.github.io/zju-icicles/](https://qsctech.github.io/zju-icicles/)
+* 华南理工大学飞跃手册（[https://kevincats-organization.gitbook.io/flying.gzic.online/](https://kevincats-organization.gitbook.io/flying.gzic.online/)）
+* 南方科技大学飞跃手册（[https://sustech-application.com/#/](https://sustech-application.com/#/)）
+* 清华大学飞跃手册（[https://feiyue.online](https://feiyue.online)）
+* 浙江大学课程攻略共享计划（ [https://qsctech.github.io/zju-icicles/](https://qsctech.github.io/zju-icicles/)）
 
 ## 贡献者
 
