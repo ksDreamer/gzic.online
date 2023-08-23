@@ -4,7 +4,9 @@
 
 每个人的生活习惯包括卫生标准、作息习惯等不一定能完全吻合，如果在生活中遇到矛盾，建议大家多多沟通协商，互相尊重和理解。如果有难以解决的矛盾再另寻他解。
 
-关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么出行方便等话题，我们面向所有人广泛征集，同时各学生组织已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容可能已经过时，可能有商业推广）：
+关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么出行方便等话题，我们面向所有人广泛征集，同时各学生组织（例如学生会、华南鲤咕、鲤工包打听、GZIC 小圈等）已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容可能已经过时，可能有商业推广）：
+
+[迎新特辑·生活资讯篇 | 来get华园生活小百科](https://mp.weixin.qq.com/s/pJtMY3N1J24H15rxCmuI6g)
 
 [新生攻略 | 超实用！盘点企业微信&华工官网的各种功能](https://mp.weixin.qq.com/s/J4TYD\_eI-ffJi8HvXqpsFg)
 
@@ -50,10 +52,6 @@
 
 [http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011)
 
-{% file src=".gitbook/assets/华南理工大学2023~2024学年度第一学期校历.pdf" %}
-
-{% file src=".gitbook/assets/华南理工大学2022~2023学年第二学期校历.pdf" %}
-
 ## 网络
 
 三个校区校园里大部分地区都有无线 Wi-Fi “scut” 覆盖，通过统一认证系统登录。免费。
@@ -82,7 +80,7 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 
 [微协攻略 | 新生必备！大学生活常用卡的使用指南快收好！](https://mp.weixin.qq.com/s/tvX7ZWmqfr7\_TnRzzMP-Qg)
 
-其中国际校区A4区域的学生好像有另一种方式——“GZIC智慧服务”小程序，小程序使用方法请看这篇文章：[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
+其中国际校区A4区域的学生有另一种方式——“GZIC智慧服务”小程序，小程序使用方法请看这篇文章：[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
 
 ## 失物招领 <a href="#activity-name" id="activity-name"></a>
 
@@ -90,7 +88,7 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 
 此攻略缺乏国际校区相关信息，已汇总于此。
 
-<table data-header-hidden><thead><tr><th width="481"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media&#x26;token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁门进门左转的柜子</p><p>B1：餐具领取处旁的柜子</p><p>F5：南边进门左转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="526"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media&#x26;token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁门进门左转的柜子</p><p>B1：餐具领取处旁的柜子</p><p>F5：南边进门左转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
 
 **一点思考**
 
@@ -159,6 +157,3 @@ D5e 一楼的一站式服务中心可以提供很多帮助，可以借到小型�
 
 
 **欢迎投稿补充！**
-
-
-
