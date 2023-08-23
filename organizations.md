@@ -4,7 +4,7 @@ description: 每一位同学都是一个个活生生的独一无二的人，由�
 
 # 学生组织篇
 
-华南理工大学的学生组织/社团不少，可以关注学生会、微博协会（华南鲤咕）等组织汇总的信息。
+华南理工大学的学生组织/社团不少，可以关注学生会、华南鲤咕（原微博协会）等组织汇总的信息。
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>在“华南鲤咕”公众号后台回复“社团”获取</p></figcaption></figure>
 
@@ -16,7 +16,7 @@ description: 每一位同学都是一个个活生生的独一无二的人，由�
 
 微电子协会是国际校区首个依托微电子学院建立的学生组织，成立的初心是成为微电子学院的学生交流、学习、共同进步的平台。协会肩负学生课外实践创新、竞赛组织培训以及专题讲座等相关活动，致力为学院同学的学术活动铺路架桥。
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt="" width="346"><figcaption></figcaption></figure>
 
 更多关于微电子协会的内容：[微协·招新资讯|微电子协会2022招新辣！](https://mp.weixin.qq.com/s?\_\_biz=MzkwNjMxMjYxMA==\&mid=2247484175\&idx=1\&sn=0513e010bff4d82ac7150c169462cf31\&scene=21#wechat\_redirect)
 
@@ -24,13 +24,13 @@ description: 每一位同学都是一个个活生生的独一无二的人，由�
 
 人工智能协会（AIA）是国际校区依托于未来技术学院建立的学生组织，下设新媒体运营部、学术资源部、合作拓展部三个部门。运作宗旨是将为学生提供交流、学习的平台，培养和提高学生的科学素质、创新精神和实践能力。
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
 
 协会现已建设以三维计算机视觉为研究方向的奥比中光追光空间站和以脑机接口为研究方向的BCI科研小组，曾举办数模分享会活动，近期拟举办校内OJ比赛，未来将举办如人工智能竞赛、kaggle天池等丰富多彩的沙龙、讲座、参观实践、竞赛活动，建设更多竞赛、科研、兴趣小组。协会将为成员举办、参与的活动提供场地支持与丰厚的活动经费！
 
 ### RobotIC 机器人实验室
 
-RobotIC 机器人实验室是面向华南理工大学全体本科生的工科实验室，成立于2022年12月，主要参加ROBOCON全国大学生机器人大赛等工科竞赛，进行机器人相关技术和知识的科普教育，承接学生参观和英才计划，对实验室研发成果进行转化并以论文或专利的形式发表。2023年首次参加 Robocon 全国大学生机器人大赛便取得了全国三等奖的好成绩。
+RobotIC 机器人实验室是面向华南理工大学全体本科生的工科实验室，成立于2022年12月，实验室成员参加 ROBOCON 全国大学生机器人大赛等工科竞赛，进行机器人相关技术知识的科普教育，承接学生参观和英才计划，转化实验室研发成果并以论文或专利的形式发表。2023年首次参加 Robocon 全国大学生机器人大赛便取得了全国三等奖及优秀队长奖。
 
 <figure><img src=".gitbook/assets/image (1).png" alt="" width="468"><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ RobotIC 机器人实验室长期欢迎：
 
 S.K.Crew（以下简称SK）街舞协会是一个跨三个校区、拥有上千名会员的大规模协会，主要包括hiphop、popping、locking、breaking、jazz五大舞种（urban、waacking等也有所涵盖）。其前身为五山校区的kook街舞协会和大学城校区的sixsteps街舞协会。
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
 
 SK于2019年国际校区的第一批本科生入住时正式进入国际校区并设立分部，日常相对独立管理，临近协会大型活动（如舞展、快闪等）时三校区联动。
 
@@ -69,9 +69,7 @@ SK于2019年国际校区的第一批本科生入住时正式进入国际校区�
 * 对猫咪定时定点投喂猫粮
 * 运营猫咪图鉴小程序
 
-<figure><img src=".gitbook/assets/image (20).png" alt="" width="178"><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (31).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-08-24 at 00.30.15.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 欢迎投稿
 
