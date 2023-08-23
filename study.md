@@ -36,13 +36,15 @@
 
 ## 课程简介和教学大纲
 
-华工暂时没有一个公开可查所有课程简介和教学大纲的平台。
-
-部分基础课可从授课学院官网查询，例如：
+华工暂没有公开可查所有课程简介和教学大纲的平台，部分基础课可从授课学院官网查询，例如：
 
 数学学院 [http://www2.scut.edu.cn/math/10414/list.htm](http://www2.scut.edu.cn/math/10414/list.htm)
 
-“鲤工包打听“每年会做通选课选课指南，可以关注其公众号。
+有些学生组织会制作选课指南。
+
+“鲤工包打听“采用在线文档的形式 [选课推荐汇总 | 快来get最适合你的课程！](https://mp.weixin.qq.com/s/hb2NRpsMr7fWFQKkfjSamA)
+
+”华南鲤咕“采用推文介绍的形式 [干货 | 你想要的『这么棒的走心』通选课指南](https://mp.weixin.qq.com/s/-lZc5fORLvPnxMQMtuUFQw)
 
 ## 学习建议与攻略
 
@@ -56,7 +58,9 @@
 
 [微协攻略 | 华工【转专业】如何转？最全转专业攻略请查收！](https://mp.weixin.qq.com/s/9H4tEz\_en\_RlEzUvvgHbDw)
 
-### 学生邮箱教育认证
+### 学生邮箱
+
+学生邮箱挺重要的，给他人发邮件时 edu 教育邮箱能证明你的身份。而且社会上很多（互联网和软件）服务学生可以通过学生认证/教育优惠享有一定便利，这些都需要学生邮箱。
 
 在门户里如果看到右下角邮箱还未注册，点击该链接进去（[https://stuemail.scut.edu.cn](https://stuemail.scut.edu.cn)）
 
@@ -82,7 +86,7 @@ AI 技术蓬勃发展，自然语言处理（NLP）技术发展日益成熟，�
 
 欢迎查看[飞跃手册](https://www.gzic.online/future)。
 
-### 国际校区专业 <a href="#activity-name" id="activity-name"></a>
+## 国际校区专业介绍和认知 <a href="#activity-name" id="activity-name"></a>
 
 国际校区本科生的专业均为新工科专业，采用全英/双语教学。可以查看官方介绍：[http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
 
