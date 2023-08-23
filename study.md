@@ -1,19 +1,92 @@
-# 认识你的专业
+# 学习篇
 
-可以看看微信公众号“华南鲤咕”制作的专业介绍推文：
+对于学生来说，教务系统是个非常重要的网址，在此可以查成绩、课程安排、已修学分等信息。
 
-[华工最真实的专业介绍来啦，选专业还在犹豫什么！](https://mp.weixin.qq.com/s/GKDQaXg-9Was6U1AP-Mpkw)\
+访问教务系统方法：
 
+点击华南理工大学官网右上角的“门户”进入统一门户：[https://my.scut.edu.cn/up/](https://my.scut.edu.cn/up/)
 
-## 转专业
+<figure><img src=".gitbook/assets/Screenshot 2023-08-18 at 23.40.43.png" alt=""><figcaption></figcaption></figure>
+
+点击右侧第四栏“教务服务”中第二项“教务系统（学生端）“进入。
+
+## 学生手册
+
+每年的本科生学生手册可以从官网获取
+
+[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081696f96b101696fd755450000](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081696f96b101696fd755450000)
+
+每年的研究生学生手册可以从官网获取
+
+[https://www2.scut.edu.cn/graduate/yjssc/list.htm](https://www2.scut.edu.cn/graduate/yjssc/list.htm)
+
+## 培养方案
+
+培养方案/培养计划可以从各学院官网的本科生培养计划中获取，例如：
+
+未来技术学院 [http://www2.scut.edu.cn/ft/pyjh/list.htm ](http://www2.scut.edu.cn/ft/pyjh/list.htm)
+
+吴贤铭智能工程学院 [http://www2.scut.edu.cn/wusie/34049/list.htm](http://www2.scut.edu.cn/wusie/34049/list.htm)&#x20;
+
+微电子学院 [http://www2.scut.edu.cn/microelectronics/pyjh/list.htm](http://www2.scut.edu.cn/microelectronics/pyjh/list.htm)&#x20;
+
+前沿软物质学院 [http://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp ](http://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp)
+
+生物医学科学与工程学院 [http://www2.scut.edu.cn/bmse/zyjs/list.htm](http://www2.scut.edu.cn/bmse/zyjs/list.htm)
+
+## 课程简介和教学大纲
+
+华工暂时没有一个公开可查所有课程简介和教学大纲的平台。
+
+部分基础课可从授课学院官网查询，例如：
+
+数学学院 [http://www2.scut.edu.cn/math/10414/list.htm](http://www2.scut.edu.cn/math/10414/list.htm)
+
+“鲤工包打听“每年会做通选课选课指南，可以关注其公众号。
+
+## 学习建议与攻略
+
+### 认识你的专业
+
+根据学生手册、培养计划、课程简介和教学大纲等资源，以及学长学姐、教师教授、相关行业从业者、互联网等渠道认识你的专业。
+
+可以看看由“华南鲤咕”制作的介绍推文：[华工最真实的专业介绍来啦，选专业还在犹豫什么！](https://mp.weixin.qq.com/s/GKDQaXg-9Was6U1AP-Mpkw)
+
+### 转专业
 
 [微协攻略 | 华工【转专业】如何转？最全转专业攻略请查收！](https://mp.weixin.qq.com/s/9H4tEz\_en\_RlEzUvvgHbDw)
 
-## 国际校区专业 <a href="#activity-name" id="activity-name"></a>
+### 学生邮箱教育认证
 
-国际校区本科生的专业均为新工科专业，采用全英/双语教学。可以查看官方的宣传口径：[http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
+在门户里如果看到右下角邮箱还未注册，点击该链接进去（[https://stuemail.scut.edu.cn](https://stuemail.scut.edu.cn)）
 
-以下为一些学生对国际校区所设本科生专业的认知。
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+填写相关信息，注册即可。选好学院后，学院编号会自动填写。
+
+### 搜索引擎推荐
+
+我们应当掌握一定的信息检索能力，以目前（2023年）搜索引擎提供信息质量来看，建议大家在正常网络情况下使用必应搜索引擎。可参考：
+
+[在「魏则西事件」中，除了抵制百度，还有哪些更重要的事情？ - 知乎 ](https://www.zhihu.com/question/45131598)
+
+[为什么百度搜索引擎越做越差？ - 知乎](https://www.zhihu.com/question/600520290)
+
+鼓励大家掌握一定的搜索技巧，例如用关键词搜索，尽量避免在搜索引擎中用自然语言检索；善用 "site: xxxx.com" "filetype = xxx" 等技巧； 注意信息源，是一手信息还是转载加工后的信息，是事实还是观点，使用范围和发表时间……
+
+AI 技术蓬勃发展，自然语言处理（NLP）技术发展日益成熟，善用 AI/GPT 等技术也能很好帮助到自己的生活、学习等多个方面。
+
+### 学习经验分享（TD）
+
+来自学院、书院、学生组织和个人的分享汇总。
+
+欢迎查看[飞跃手册](https://www.gzic.online/future)。
+
+### 国际校区专业 <a href="#activity-name" id="activity-name"></a>
+
+国际校区本科生的专业均为新工科专业，采用全英/双语教学。可以查看官方介绍：[http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
+
+以下为一些学生对国际校区所设本科生专业的认知分享，不代表学校立场，不代表本手册立场。
 
 ### 集成电路
 
@@ -109,10 +182,11 @@
 
 生物医学工程作为一个交叉学科，下有许多分支方向，其中较热门的有生物材料、生物电子、医疗器械等。下附培养计划表:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-22 at 15.46.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-08-22 at 15.46.06.png" alt=""><figcaption></figcaption></figure>
 
 大一上学期就会有课程介绍生医工的各个分支，以便同学们尽早确立未来发展方向。从这方面来看，本专业的最大优势不在于课程设计，而在于开放的研究氛围。 院长、老师鼓励本科生参与科研，各实验室对学生长期开放，可随时与老师联系申请参观学习，并选择感兴趣的课题组加入。加入课题组后导师便会安排研究生带领学习，共同完成项目;这意味着拥有更多机会、资源以及实践经验，对未来读研或工作都有很大帮助。另外，学校的许多交流项目中不乏生物医学工程专业排名靠前的好学校，同样利于未来的学习深造。&#x20;
 
 缺点:交叉学科的特点便是广而不精。本科阶段的课程设立更加注重全面学习，
 
 因此即便你已经决定了往后的发展方向也还是需要上对该方向帮助不大的课程， 而真正需要的内容又只能靠自学。另外，本校的生物医学科学与工程学院起源于材料学院，多数课题组的研究方向也更偏向材料学。最重要的一点是，由于生物医学工程领域触及尖端研究，国内相关产业还不发达，所以生物医学工程的公司对本科生的需求并不大，毕竟本科生的知识和技能还达不到要求。如果想做研究， 最好读研读博，努力提升自身学业水平。
+

@@ -18,8 +18,8 @@
 [contacts.md](contacts.md)
 {% endcontent-ref %}
 
-{% content-ref url="xue-xi-pian/study.md" %}
-[study.md](xue-xi-pian/study.md)
+{% content-ref url="study.md" %}
+[study.md](study.md)
 {% endcontent-ref %}
 
 {% content-ref url="life.md" %}
