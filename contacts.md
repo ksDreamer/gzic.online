@@ -8,11 +8,11 @@ description: 华南理工大学广州国际校区（简称华工国际或国际�
 
 ### 校级
 
-<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/公众号二维码华南理工大学.bmp" alt=""></td></tr><tr><td>华工国际官网</td><td><a href="https://www2.scut.edu.cn/gzic/">https://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="187.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><p></p><p><img src=".gitbook/assets/image.png" alt="" data-size="original"></p></td></tr><tr><td>华工国际官网</td><td><a href="https://www2.scut.edu.cn/gzic/">https://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
 
 ### 二级单位（院、系、部门）
 
-<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>峻德书院</td><td><a href="https://www2.scut.edu.cn/jdsy/">https://www2.scut.edu.cn/jdsy/</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>铭诚书院</td><td><a href="https://www2.scut.edu.cn/mcsy/">https://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="https://www2.scut.edu.cn/wusie/">https://www2.scut.edu.cn/wusie/</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">https://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">https://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="https://www2.scut.edu.cn/sesm/">https://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">https://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr><tr><td>华南理工大学研究生</td><td><a href="https://www2.scut.edu.cn/graduate/">https://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (9).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="https://admission.scut.edu.cn">https://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a><br></p></td><td><img src=".gitbook/assets/image (11).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (12).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>峻德书院</td><td><a href="https://www2.scut.edu.cn/jdsy/">https://www2.scut.edu.cn/jdsy/</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>铭诚书院</td><td><a href="https://www2.scut.edu.cn/mcsy/">https://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="https://www2.scut.edu.cn/wusie/">https://www2.scut.edu.cn/wusie/</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">https://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">https://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="https://www2.scut.edu.cn/sesm/">https://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">https://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr><tr><td>华南理工大学研究生</td><td><a href="https://www2.scut.edu.cn/graduate/">https://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (9).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="https://admission.scut.edu.cn">https://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a><br></p></td><td><img src=".gitbook/assets/image (11).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (12).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
@@ -23,9 +23,9 @@ description: 华南理工大学广州国际校区（简称华工国际或国际�
 * 学生会
 * 华南鲤咕（原华工微博协会）
 * 鲤工包打听（原华工包打听）
-* 华工小灯神
+* 小灯神 GENIE（原华工小灯神）
 * 信息阁
-* 小圈
+* GZIC 小圈
 
 对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
 
@@ -52,14 +52,14 @@ description: 华南理工大学广州国际校区（简称华工国际或国际�
 | 名称          | 地址                                                                           | 电话                                                                             |
 | ----------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 一站式学生社区服务驿站 | D5e 一楼大厅东侧                                                                   | **81181000**                                                                   |
-| 师生服务中心      |                                                                              | 81182193                                                                       |
+| 师生服务中心      | C3c 二楼                                                                       | 81182193                                                                       |
 | 医务室         | D5-d116                                                                      | <p>81182120；<br><strong>24小时值班电话：</strong><br><strong>19860205790</strong></p> |
 | 警务室         | C3-c104                                                                      | 81181110、84763333                                                              |
 | 图书馆         | <p>主图书馆：E3</p><p>明真阁：D1b 一二层</p><p>峻德书院图书室：D5-d201</p><p>铭诚书院图书室：D5-c203</p> | 81182100                                                                       |
-| 教学事务办公室     |                                                                              | 81181638                                                                       |
-| 综合事务办公室     |                                                                              | 81182199、81181608                                                              |
-| 学生事务办公室     |                                                                              | 81181656                                                                       |
-| 全球事务办公室     |                                                                              | 81181647、81181636                                                              |
+| 教学事务办公室     | F1-a213                                                                      | 81181638                                                                       |
+| 综合事务办公室     | F1-a307、308                                                                  | 81182199、81181608                                                              |
+| 学生事务办公室     | F1-a205                                                                      | 81181656                                                                       |
+| 全球事务办公室     | F1-a212                                                                      | 81181647、81181636                                                              |
 | 心理咨询中心      |                                                                              | 81181661                                                                       |
 
 注：
@@ -67,6 +67,7 @@ description: 华南理工大学广州国际校区（简称华工国际或国际�
 1. 国际校区一般办公时间： 周一至周五 8:50-12:00；14：00-17：00
 2. 师生服务中心的自助服务区24小时开放
 3. 医务室开放时间8:20-22:30，24小时值班电话：19860205790
+4. 组织机构：[http://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm](http://www2.scut.edu.cn/gzic/2021/1020/c30291a473439/page.htm)
 
 ### 生活相关
 
