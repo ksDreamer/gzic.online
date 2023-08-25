@@ -10,7 +10,7 @@
 
 由于外界的经济形势、就业形势、火热专业、招生政策等可能会变，每位学子的个人情况也不尽相同，同学们在参考往年飞跃手册时应当注意信息的时效性和契合度。
 
-**#本项目的个人案例分享已独立出来，放在此链接中：**
+**本项目的个人案例分享已独立出来，放在此链接中：**
 
 **华南理工大学飞跃手册 (**[**https://flying.gzic.online**](https://flying.gzic.online)**)**
 
@@ -149,7 +149,15 @@ xxx赛事经历：本人主要负责算法的部分。在研究过程中我研�
 
 TD 列出华工（国际）近五年的交换/访学/出境深造项目
 
-互联网范围的资源：B 站、知乎、豆瓣等公共平台；一亩三分地等留学论坛；其他学校学生的经验例如南方科技大学飞跃手册 [https://sustech-application.com](https://sustech-application.com)、清华大学飞跃手册 [https://feiyue.online](https://feiyue.online)
+### 资源指路
+
+互联网范围的资源例如：B 站、知乎、豆瓣等公共平台
+
+留学论坛例如：一亩三分地
+
+其他学校学生的经验例如：南方科技大学飞跃手册 [https://sustech-application.com](https://sustech-application.com)，清华大学飞跃手册 [https://feiyue.online](https://feiyue.online)
+
+希望能启发大家，能从哪些渠道获取信息，重要的不是具体的例子。
 
 ## 就业（TD）
 
