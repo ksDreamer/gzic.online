@@ -24,8 +24,8 @@
 [contacts.md](contacts.md)
 {% endcontent-ref %}
 
-{% content-ref url="study.md" %}
-[study.md](study.md)
+{% content-ref url="study/" %}
+[study](study/)
 {% endcontent-ref %}
 
 {% content-ref url="life.md" %}

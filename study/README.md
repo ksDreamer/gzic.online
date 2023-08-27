@@ -1,0 +1,88 @@
+# 学习篇
+
+对于学生来说，教务系统是个非常重要的网址，在此可以查成绩、课程安排、已修学分等信息。
+
+访问教务系统方法：
+
+点击华南理工大学官网右上角的“门户”进入统一门户：[https://my.scut.edu.cn/up/](https://my.scut.edu.cn/up/)
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-18 at 23.40.43.png" alt=""><figcaption></figcaption></figure>
+
+点击右侧第四栏“教务服务”中第二项“教务系统（学生端）”进入。
+
+## 学生手册
+
+每年的本科生学生手册可以从官网获取
+
+[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081696f96b101696fd755450000](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081696f96b101696fd755450000)
+
+每年的研究生学生手册可以从官网获取
+
+[https://www2.scut.edu.cn/graduate/yjssc/list.htm](https://www2.scut.edu.cn/graduate/yjssc/list.htm)
+
+## 培养方案
+
+培养方案/培养计划可以从各学院官网的本科生培养计划中获取，例如：
+
+未来技术学院 [http://www2.scut.edu.cn/ft/pyjh/list.htm ](http://www2.scut.edu.cn/ft/pyjh/list.htm)
+
+吴贤铭智能工程学院 [http://www2.scut.edu.cn/wusie/34049/list.htm](http://www2.scut.edu.cn/wusie/34049/list.htm)&#x20;
+
+微电子学院 [http://www2.scut.edu.cn/microelectronics/pyjh/list.htm](http://www2.scut.edu.cn/microelectronics/pyjh/list.htm)&#x20;
+
+前沿软物质学院 [http://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp ](http://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp)
+
+生物医学科学与工程学院 [http://www2.scut.edu.cn/bmse/zyjs/list.htm](http://www2.scut.edu.cn/bmse/zyjs/list.htm)
+
+## 课程简介和教学大纲
+
+华工暂没有公开可查所有课程简介和教学大纲的平台，部分基础课可从授课学院官网查询，例如：
+
+数学学院 [http://www2.scut.edu.cn/math/10414/list.htm](http://www2.scut.edu.cn/math/10414/list.htm)
+
+有些学生组织/团体会制作选课指南，例如：
+
+“鲤工包打听“采用在线文档的形式 [选课推荐汇总 | 快来get最适合你的课程！](https://mp.weixin.qq.com/s/hb2NRpsMr7fWFQKkfjSamA)
+
+”华南鲤咕“采用推文介绍的形式 [干货 | 你想要的『这么棒的走心』通选课指南](https://mp.weixin.qq.com/s/-lZc5fORLvPnxMQMtuUFQw)
+
+## 学习建议与攻略
+
+### 认识你的专业
+
+根据学生手册、培养计划、课程简介和教学大纲等资源，以及学长学姐、教师教授、相关行业从业者、互联网等渠道认识你的专业。
+
+可以看看由“华南鲤咕”制作的介绍推文：[华工最真实的专业介绍来啦，选专业还在犹豫什么！](https://mp.weixin.qq.com/s/GKDQaXg-9Was6U1AP-Mpkw)
+
+### 转专业
+
+[微协攻略 | 华工【转专业】如何转？最全转专业攻略请查收！](https://mp.weixin.qq.com/s/9H4tEz\_en\_RlEzUvvgHbDw)
+
+### 学生邮箱
+
+学生邮箱挺重要的，给他人发邮件时 以 edu 后缀结尾的教育邮箱能证明你的身份。而且社会上很多（互联网和软件）服务可以通过学生认证/教育优惠享有一定便利，这些都需要学生邮箱。
+
+在门户里如果看到右下角邮箱还未注册，点击该链接进去（[https://stuemail.scut.edu.cn](https://stuemail.scut.edu.cn)）
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+填写相关信息，注册即可。选好学院后，学院编号会自动填写。
+
+### 提高信息检索能力
+
+鼓励大家掌握一定的搜索技巧，例如用关键词搜索，尽量避免在搜索引擎中用自然语言检索；善用 "site: xxxx.com" "filetype = xxx" 等技巧； 注意信息源，是一手信息还是转载加工后的信息，是事实还是观点，使用范围和发表时间……
+
+AI 技术蓬勃发展，自然语言处理（NLP）技术发展日益成熟，善用 AI/GPT 等技术也能很好帮助到自己的生活、学习等多个方面。
+
+### 学习经验分享（TD）
+
+来自学院、书院、学生组织和个人的分享汇总。
+
+欢迎查看[飞跃手册](https://www.gzic.online/future)。
+
+## 专业介绍和认知 <a href="#activity-name" id="activity-name"></a>
+
+国际校区本科生的专业均为新工科专业，采用全英/双语教学。可以查看官方介绍：[http://www2.scut.edu.cn/gzic/30309/list.htm](http://www2.scut.edu.cn/gzic/30309/list.htm)
+
+后面子篇为一些学生对部分专业的认知分享，不代表学校立场，不代表所有人立场，不代表本手册立场。
+
