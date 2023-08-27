@@ -6,7 +6,7 @@
 
 点击华南理工大学官网右上角的“门户”进入统一门户：[https://my.scut.edu.cn/up/](https://my.scut.edu.cn/up/)
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-18 at 23.40.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-08-18 at 23.40.43.png" alt=""><figcaption></figcaption></figure>
 
 点击右侧第四栏“教务服务”中第二项“教务系统（学生端）”进入。
 
@@ -64,7 +64,7 @@
 
 在门户里如果看到右下角邮箱还未注册，点击该链接进去（[https://stuemail.scut.edu.cn](https://stuemail.scut.edu.cn)）
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 填写相关信息，注册即可。选好学院后，学院编号会自动填写。
 

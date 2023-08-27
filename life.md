@@ -30,6 +30,8 @@
 
 [新生攻略丨大学城生活篇 值得收藏](https://mp.weixin.qq.com/s/Yof7Uf97Yclq\_CjJjIviEA)
 
+
+
 ### 国际校区
 
 [微协攻略 | 国际校区攻略Ⅰ（学习生活篇）](https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg)
@@ -41,6 +43,12 @@
 [GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
 
 [国际校区黄页 | 常用地址和联系方式汇总](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
+
+新资讯不一定能及时收录，因此掌握长期稳定的信息渠道比收集具体一两篇文章要重要得多。
+
+例如大学城校区最近有新的商铺入驻：C10 的麦当劳，B10北座一楼的休闲咖啡厅华园小弥（由经院学生共建共营的）等等。
+
+还有一些华工文创：例如由2021级设计学院学生创建的”广横走“品牌。
 
 ## 作息表
 

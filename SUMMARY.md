@@ -3,7 +3,7 @@
 * [README](README.md)
 * [如果你是新生](freshman.md)
 * [黄页](contacts.md)
-* [学习篇](study/README.md)
+* [学习篇](study.md)
   * [吴贤铭智能工程学院](study/wu-xian-ming-zhi-neng-gong-cheng-xue-yuan.md)
   * [生物医学工程学院](study/sheng-wu-yi-xue-gong-cheng-xue-yuan.md)
   * [前沿软物质学院](study/qian-yan-ruan-wu-zhi-xue-yuan.md)
