@@ -18,7 +18,7 @@
 
 [http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081658ac16a016903be790109d3](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081658ac16a016903be790109d3)
 
-
+***
 
 飞跃手册包含保研/直博、出国深造、考研、就业、创业、考公、考编等内容，以下内容节选自飞跃手册（[**https://flying.gzic.online**](https://flying.gzic.online)**）**
 
@@ -171,9 +171,9 @@ xxx赛事经历：本人主要负责算法的部分。在研究过程中我研�
 
 关于对未来的规划，欢迎查看[华工手册《立志篇》](https://www.gzic.online/goal)。
 
-### 语言
+以下为语言考试相关内容，请以官方信息为准。
 
-#### 英语-雅思（IELTS)
+### 语言考试-英语-雅思（IELTS)
 
 时间：机考一般除节假日外每天都有数场，笔考隔周的周六或周日
 
@@ -185,87 +185,53 @@ xxx赛事经历：本人主要负责算法的部分。在研究过程中我研�
 
 **Listening（满分9）**
 
-内容
+内容是对话、独白、学术对话和学术独白。
 
-1\.       对话
+题型如下：
 
-2\.       独白
-
-3\.       学术对话
-
-4\.       学术独白
-
-题型
-
-选择题（单选、多选）
-
-填空题
-
-表格题
-
-配对题
-
-地图题
+* 选择题（单选、多选）
+* 填空题
+* 表格题
+* 配对题
+* 地图题
 
 **Reading（满分9）**
 
-题型
+题型如下：
 
-填空题
-
-选择题
-
-判断题（True, False, Not given）
-
-信息题（Which paragraph contains the following information）
-
-配对题（Match each statement with the correct person/date etc.）
-
-段落大意题（Choose the correct heading for each paragraph）
-
-流程图、图表题
+* 填空题
+* 选择题
+* 判断题（True, False, Not given）
+* 信息题（Which paragraph contains the following information）
+* 配对题（Match each statement with the correct person/date etc.）
+* 段落大意题（Choose the correct heading for each paragraph）
+* 流程图、图表题。
 
 **Writing（满分9）**
 
-小作文
+分小作文和大作文。
 
-150-200 words
+小作文通常是描述和分析数据，150-200 words。
 
-描述和分析数据
-
-大作文
-
-\>250 words
-
-讨论问题，并展开论证
+大作文要讨论问题，并展开论证，字数通常要多于250 words。
 
 **Speaking（满分9）**
 
-Part 1
+内容如下：
 
-日常对话
+1. 日常对话和一问一答
+2. 话题论述，一分钟准备，两分钟独白
+3. 话题讨论
 
-一问一答
-
-Part 2
-
-话题论述
-
-一分钟准备，两分钟独白
-
-Part 3
-
-话题讨论
-
-#### 英语-托福（TOEFL）
+### 语言考试-英语-托福（TOEFL）
 
 待补充
 
-#### 英语-多领国（DUOLINGO）
+### 语言考试-英语-多领国（DUOLINGO）
 
 待补充
 
-#### 德语-德福（TestDaF)
+### 语言考试-德语-德福（TestDaF)
 
 时间：每年三次（3月/7月/11月）
 
@@ -273,11 +239,11 @@ Part 3
 
 模式：大陆全部为纸笔考试（截止到2023年）/海外有机考
 
-#### 德语-DSH
+### 语言学习-德语-DSH
 
 待补充
 
-#### 日语-日本语能力测试（JLPT）
+### 语言学习-日语-日本语能力测试（JLPT）
 
 时间：每年两次（7月/12月）
 
