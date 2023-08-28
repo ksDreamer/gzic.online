@@ -58,6 +58,10 @@
 
 **项目开源地址是** [**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
 
+**也可以扫描二维码访问华工手册：**
+
+<img src=".gitbook/assets/qrcode_www.gzic.online.png" alt="" data-size="original">
+
 社交媒体的普及使传统网站难有持续的关注，因此我们也用社交媒体渠道来同步更新。
 
 <table><thead><tr><th width="530">名称</th><th>二维码</th></tr></thead><tbody><tr><td>GZIC 小圈微信公众号，会发一些推文，靠这个来同步校园信息。</td><td><img src=".gitbook/assets/image (1) (1) (1).png" alt=""></td></tr><tr><td>小圈微信号，平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。</td><td><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""></td></tr><tr><td>华工手册共建群（QQ 群）长期有效的反馈和沟通渠道。群号：850188565</td><td><img src=".gitbook/assets/dabc1f74a10c002e30207ac7ac842d2a_0.jpg" alt=""></td></tr></tbody></table>
