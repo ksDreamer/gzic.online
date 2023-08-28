@@ -29,6 +29,7 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 | 小灯神GENIE（原华工小灯神）  | ![](<.gitbook/assets/image (41).png>) |
 | 信息阁               | ![](<.gitbook/assets/image (42).png>) |
 | GZIC小圈            | ![](<.gitbook/assets/image (43).png>) |
+| HG鲤鱼池|微信小程序|
 
 对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
 
