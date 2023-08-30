@@ -4,7 +4,7 @@
 
 每个人的生活习惯包括卫生标准、作息习惯等不一定能完全吻合，如果在生活中遇到矛盾，建议大家多多沟通协商，互相尊重和理解。如果有难以解决的矛盾再另寻他解。
 
-关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么出行方便等话题，我们面向所有人广泛征集，同时各学生组织（例如学生会、华南鲤咕、鲤工包打听、GZIC 小圈等）已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容可能已经过时，可能有商业推广）：
+关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么出行方便等话题，我们面向所有人广泛征集，同时各学生组织（例如学生会、华南鲤咕、鲤工包打听、GZIC 小圈等）已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容随着时间推移可以会过时，可能有商业推广）：
 
 [迎新特辑·生活资讯篇 | 来get华园生活小百科](https://mp.weixin.qq.com/s/pJtMY3N1J24H15rxCmuI6g)
 
@@ -30,7 +30,9 @@
 
 [新生攻略丨大学城生活篇 值得收藏](https://mp.weixin.qq.com/s/Yof7Uf97Yclq\_CjJjIviEA)
 
+大学城校区2023年暑期有新的商铺入驻，例如C10 的麦当劳，B10北座一楼的休闲咖啡厅华园小弥（由经院学生共建共营的）等等。
 
+还有一些华工文创：例如”广横走“品牌（由2021级设计学院学生创建）。
 
 ### 国际校区
 
@@ -44,11 +46,9 @@
 
 [国际校区黄页 | 常用地址和联系方式汇总](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
 
+
+
 新资讯不一定能及时收录，因此掌握长期稳定的信息渠道比收集具体一两篇文章要重要得多。
-
-例如大学城校区最近有新的商铺入驻：C10 的麦当劳，B10北座一楼的休闲咖啡厅华园小弥（由经院学生共建共营的）等等。
-
-还有一些华工文创：例如由2021级设计学院学生创建的”广横走“品牌。
 
 ## 作息表
 
@@ -96,7 +96,7 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 
 此攻略缺乏国际校区相关信息，已汇总于此。
 
-<table data-header-hidden><thead><tr><th width="526"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media&#x26;token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁门进门左转的柜子</p><p>B1：餐具领取处旁的柜子</p><p>F5：南边进门左转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="526"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media&#x26;token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁门进门左转的柜子</p><p>B1：餐具领取处旁的柜子</p><p>F5：南边进门右转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
 
 **一点思考**
 
