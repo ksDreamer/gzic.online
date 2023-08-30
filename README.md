@@ -85,7 +85,11 @@
 
 ## 知识产权
 
-本手册所有正文内容，未做特别声明，除了部分引用内容和链接（会在其后附原出处地址）以外，均按照 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 协议进行分发。
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+本手册所有正文内容，未做特别声明均按照 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 协议进行分发。
+
+飞跃手册内容如未征得原作者同意，不得商用。
 
 引用内容和链接的知识产权归原出处作者。
 
