@@ -8,11 +8,11 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 ### 校级
 
-<table><thead><tr><th width="249.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/image.png" alt="" data-size="original"></td></tr><tr><td>华南理工大学广州国际校区</td><td><a href="https://www2.scut.edu.cn/gzic/">https://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="249.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/image (1).png" alt="" data-size="original"></td></tr><tr><td>华南理工大学广州国际校区</td><td><a href="https://www2.scut.edu.cn/gzic/">https://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
 
 ### 二级单位（院、系、部门）
 
-<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学研究生</td><td><a href="https://www2.scut.edu.cn/graduate/">https://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (35).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="https://admission.scut.edu.cn">https://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a></p></td><td><img src=".gitbook/assets/image (34).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (36).png" alt=""></td></tr><tr><td>峻德书院</td><td><a href="https://www2.scut.edu.cn/jdsy/">https://www2.scut.edu.cn/jdsy/</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>铭诚书院</td><td><a href="https://www2.scut.edu.cn/mcsy/">https://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="https://www2.scut.edu.cn/wusie/">https://www2.scut.edu.cn/wusie/</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">https://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">https://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="https://www2.scut.edu.cn/sesm/">https://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">https://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr></tbody></table>
+<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学研究生</td><td><a href="https://www2.scut.edu.cn/graduate/">https://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (35).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="https://admission.scut.edu.cn">https://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a></p></td><td><img src=".gitbook/assets/image (34).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (36).png" alt=""></td></tr><tr><td>峻德书院</td><td><a href="https://www2.scut.edu.cn/jdsy/">https://www2.scut.edu.cn/jdsy/</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>铭诚书院</td><td><a href="https://www2.scut.edu.cn/mcsy/">https://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="https://www2.scut.edu.cn/wusie/">https://www2.scut.edu.cn/wusie/</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">https://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">https://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="https://www2.scut.edu.cn/sesm/">https://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">https://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr></tbody></table>
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
@@ -20,22 +20,23 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 在校园信息方面，有一些学生组织和校园自媒体也做了很多的努力。例如2017-2020年大学城校区同学可能会关注一个微信公众号叫“信息阁”。它为很多学生提供了很多便利，还有很多很多：
 
-| 名称                | 微信公众号二维码或备注                           |
-| ----------------- | ------------------------------------- |
-| 华南理工大学学生会         | ![](<.gitbook/assets/image (40).png>) |
-| SCUT学生创新俱乐部（简称学创） | ![](<.gitbook/assets/image (39).png>) |
-| 华南鲤咕（原华工微博协会）     | ![](<.gitbook/assets/image (37).png>) |
-| 鲤工包打听（原华工包打听）     | ![](<.gitbook/assets/image (38).png>) |
-| 小灯神GENIE（原华工小灯神）  | ![](<.gitbook/assets/image (41).png>) |
-| 信息阁               | ![](<.gitbook/assets/image (42).png>) |
-| GZIC小圈            | ![](<.gitbook/assets/image (43).png>) |
-| HG鲤鱼池             | 微信小程序                                 |
+| 名称               | 微信公众号二维码或备注                           |
+| ---------------- | ------------------------------------- |
+| 华南理工大学学生会        | ![](<.gitbook/assets/image (40).png>) |
+| SCUT学生创新俱乐部      | ![](<.gitbook/assets/image (39).png>) |
+| 华工百步梯            | ![](.gitbook/assets/image.png)        |
+| 华南鲤咕（原华工微博协会）    | ![](<.gitbook/assets/image (37).png>) |
+| 鲤工包打听（原华工包打听）    | ![](<.gitbook/assets/image (38).png>) |
+| 小灯神GENIE（原华工小灯神） | ![](<.gitbook/assets/image (41).png>) |
+| 信息阁              | ![](<.gitbook/assets/image (42).png>) |
+| GZIC小圈           | ![](<.gitbook/assets/image (43).png>) |
+| HG鲤鱼池            | 微信小程序                                 |
 
 注：
 
 以上学生组织和校园自媒体中，有学校官方性质的（例如华南理工大学学生会），也有民间非官方性质的（例如GZIC 小圈），有商业化的（例如包打听、鲤鱼池等），请大家自行甄别信息来源。
 
-2023年3月2日校方在企业微信的消息通知栏发过一个通知，提醒同学们“在各大平台出现了一款诱导用户输入我校教务系统账号密码后查询本人课表的小程序”，提醒同学小心泄漏学生账号和密码。对于涉及信息安全的事我们应当谨慎一点。
+2023年3月2日华南理工大学企业微信消息通知栏发过一个通知，提醒同学们“在各大平台出现了一款诱导用户输入我校教务系统账号密码后查询本人课表的小程序”，提醒同学小心泄漏学生账号和密码。请大家注意信息安全。
 
 对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
 
@@ -90,8 +91,6 @@ APP 后勤报修 -“我的 e 校园”
 财务处 87114508
 
 ## 广州国际校区地址与常用联系方式
-
-<figure><img src=".gitbook/assets/image%20(4).png" alt=""><figcaption><p>华南理工大学广州国际校区地图</p></figcaption></figure>
 
 地址：广东省广州市番禺区兴业大道东777号
 
