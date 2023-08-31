@@ -95,7 +95,7 @@
 
 **其余的各学校特殊要填的文件应该都是基于简历和个人陈述做延伸，在此不再赘述.**
 
-以上内容节选于[清华大学深研院-人工智能硕士-18自动化武思朗](https://flying.gzic.online/bao-yan-zhi-bo/qing-hua-da-xue-shen-yan-yuan-ren-gong-zhi-neng-shuo-shi-18-zi-dong-hua-wu-si-lang)。
+以上内容节选于[清华大学深研院-人工智能硕士-18自动化伍思朗](https://flying.gzic.online/bao-yan-zhi-bo/qing-hua-da-xue-shen-yan-yuan-ren-gong-zhi-neng-shuo-shi-18-zi-dong-hua-wu-si-lang)。
 
 ## 出国深造
 
