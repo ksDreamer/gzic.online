@@ -64,11 +64,14 @@
 
 ## 友链
 
+以下组织或项目也都在做信息聚合、促进信息流通的努力，想造福大家。
+
 * 华南理工大学飞跃手册（[https://kevincats-organization.gitbook.io/flying.gzic.online/](https://kevincats-organization.gitbook.io/flying.gzic.online/)）
 * 南方科技大学飞跃手册（[https://sustech-application.com/#/](https://sustech-application.com/#/)）
 * 清华大学飞跃手册（[https://feiyue.online](https://feiyue.online)）
 * 浙江大学课程攻略共享计划（ [https://qsctech.github.io/zju-icicles/](https://qsctech.github.io/zju-icicles/)）
 * 北洋维基（[https://wiki.tjubot.cn](https://wiki.tjubot.cn)）
+* 中大民间信息聚合微信公众号“全能小鸭”。
 
 ## 贡献者
 
