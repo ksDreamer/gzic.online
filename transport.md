@@ -2,7 +2,7 @@
 
 ## 校园地图
 
-官网可查三个校区的在线地图：[https://map.scut.edu.cn/login\_home.html](https://map.scut.edu.cn/login\_home.html)
+可在 [华南理工大学地理信息系统](https://map.scut.edu.cn/login\_home.html) 查看三个校区的地图。
 
 <figure><img src=".gitbook/assets/campus map 2308.jpg" alt=""><figcaption><p>（来源华工国际官方微信号“华南理工广州国际校区”）</p></figcaption></figure>
 
@@ -10,11 +10,11 @@
 
 由“华南鲤咕”出品的三校区地图：
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption><p>微协攻略 | 五山宿舍生存指南 <a href="https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ">https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会五山校区地图.png" alt="" width="75%"><figcaption><a href="https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ">微协攻略 | 五山宿舍生存指南</a></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption><p>微协攻略 | 南校住行攻略 <a href="https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw">https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会大学城校区地图.png" alt="" width="75%"><figcaption><a href="https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw">微协攻略 | 南校住行攻略</a></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption><p>微协攻略 | 国际校区攻略Ⅰ（学习生活篇）<a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会广州国际校区地图.png" alt="" width="75%"><figcaption><a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">微协攻略 | 国际校区攻略Ⅰ（学习生活篇）</a></figcaption></figure>
 
 国际校区南北朝向，从西向东分别以 A 到 G 排序，从南到北以 1 到 6 排序，例如图书馆，就位于 E3 的位置。
 
@@ -56,6 +56,6 @@
 
 也可以关注由各学生组织制作的信息汇总表。例如以下资料来源于“华南鲤咕“微信公众号。
 
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption><p>微协攻略 | 国际校区攻略Ⅰ（学习生活篇） <a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会广州国际校区交通攻略.png" alt=""><figcaption><a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">微协攻略 | 国际校区攻略Ⅰ（学习生活篇）</a></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption><p>“华南鲤咕“微信公众号后台回复”校巴“获得</p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会校区间交通车时刻表.png" alt=""><figcaption><p>“华南鲤咕“微信公众号后台回复”校巴“获得</p></figcaption></figure>

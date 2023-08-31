@@ -2,15 +2,15 @@
 
 ## 华工手册是什么？
 
-华工手册是一个聚合华南理工大学校园信息的项目，希望能为华工的学生、教职工、物业后勤、家属、毕业校友等人提供信息聚合和查询服务。 本项目由华工学生发起，欢迎所有华工人（包括留学生，包括毕业校友）参与建设。
+华工手册是一个华南理工大学校园信息聚合的项目，希望能为华工的学生、教职工、物业后勤、家属、毕业校友等人提供信息聚合和查询服务。本项目由华工学生发起，欢迎所有华工人（包括留学生和毕业校友）参与建设。
 
-“[如果你是新生](https://www.gzic.online/freshman)”适合大一大二和研一的同学看，让这个手册带大家走进华南理工大学。
+「[如果你是新生](https://www.gzic.online/freshman)」适合大一大二和研一的同学看，让这个手册带大家走进华南理工大学。
 
-“[飞跃手册](https://www.gzic.online/future)”适合大三大四的学生看，我们邀请了华工每届不同院系和专业的毕业生们，邀请他/她们来分享在申请路上踩过的坑和填过的土。
+「[飞跃手册](https://www.gzic.online/future)」适合大三大四的学生看，我们邀请了华工每届不同院系和专业的毕业生们，邀请他/她们来分享在申请路上踩过的坑和填过的土。
 
 其他部分适合所有华工人随时查阅，提供快捷信息查询服务。
 
-因为第一版编写成员主要来自于广州国际校区，所以部分内容会有缺失。希望能联合五山校区、大学城校区，逐步完善内容，最终汇聚散布世界各地的华工人，一起完善这份手册。
+因为第一版编写成员主要来自于广州国际校区，所以内容会偏重于广州国际校区。希望能联合五山校区、大学城校区，逐步完善内容，最终汇聚散布世界各地的华工人，一起完善这份手册。
 
 希望这本小册子和开源开放互助共享的理念能帮到大家。
 
@@ -54,9 +54,9 @@
 
 ## 内容更新和传播
 
-**华工手册的互联网地址是** [**www.gzic.online**](https://www.gzic.online)
+**华工手册的互联网地址是**[**www.gzic.online**](https://www.gzic.online)
 
-**项目开源地址是** [**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
+**项目开源地址是**[**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
 
 **也可以扫描二维码访问华工手册：**
 
@@ -64,7 +64,9 @@
 
 社交媒体的普及使传统网站难有持续的关注，因此我们也用社交媒体渠道来同步更新。
 
-<table><thead><tr><th width="530">名称</th><th>二维码</th></tr></thead><tbody><tr><td>GZIC 小圈微信公众号，会发一些推文，靠这个来同步校园信息。</td><td><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""></td></tr><tr><td>小圈微信号，平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。</td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>华工手册共建群（QQ 群）长期有效的反馈和沟通渠道。群号：850188565</td><td><img src=".gitbook/assets/dabc1f74a10c002e30207ac7ac842d2a_0.jpg" alt=""></td></tr></tbody></table>
+<table><thead><tr><th width="80%">名称</th><th width="20%">二维码</th></tr></thead><tbody><tr><td>GZIC 小圈微信公众号，会发一些推文，靠这个来同步校园信息。</td><td><img src=".gitbook/assets/GZIC小圈微信公众号QR码.png" alt=""></td></tr><tr><td>小圈微信号，平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。</td><td><img src=".gitbook/assets/GZIC小圈微信QR码.png" alt=""></td></tr><tr><td>华工手册共建群（QQ 群）长期有效的反馈和沟通渠道。群号：850188565</td><td><img src=".gitbook/assets/华工手册共建群QQ群QR码.jpg" alt=""></td></tr></tbody></table>
+
+### 如何参与华工手册建设
 
 **华工手册面向华南理工大学所有人，欢迎大家一起参与建设。**（参与方式详见[关于](https://www.gzic.online/about)）
 
@@ -85,7 +87,7 @@
 
 ## 知识产权
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 本手册所有正文内容，未做特别声明均按照 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 协议进行分发。
 

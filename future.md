@@ -10,17 +10,15 @@
 
 **本项目的个人案例分享已独立出来，放在此链接中：**
 
-**华南理工大学飞跃手册 (**[**https://flying.gzic.online**](https://flying.gzic.online)**)**
+[**华南理工大学飞跃手册 (flying.gzic.online)**](https://flying.gzic.online/)
 
 ## 毕业生质量报告
 
-华南理工大学每年的本科教学质量报告可以从下面这个官方地址获取：
-
-[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081658ac16a016903be790109d3](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081658ac16a016903be790109d3)
+华南理工大学每年的本科教学质量报告可以从 [教务处/信息公开/本科教学质量报告](https://jw.scut.edu.cn/zhinan/cms/category/index.do?id=ff808081658ac16a016903be790109d3) 获取：
 
 ***
 
-飞跃手册包含保研/直博、出国深造、考研、就业、创业、考公、考编等内容，以下内容节选自飞跃手册（[**https://flying.gzic.online**](https://flying.gzic.online)**）**
+飞跃手册包含保研/直博、出国深造、考研、就业、创业、考公、考编等内容，以下内容节选自[**飞跃手册 (flying.gzic.online)**](https://flying.gzic.online/)
 
 ## 保研/直博
 
@@ -65,7 +63,7 @@
 1.学术背景
 
 * 说明学校与专业
-* 说明GPA，排名，英文水平等 如：GPA：89.46/100 | 专业成绩排名：9/200(4.5%) | 大学英语六级：591&#x20;
+* 说明GPA，排名，英文水平等 如：GPA：89.46/100 | 专业成绩排名：9/200(4.5%) | 大学英语六级：591
 
 2.研究经历（必须详细）
 
@@ -119,13 +117,13 @@
 >
 > 海的那边，一样很残酷。
 
-[https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/untitled/wei-shen-me-yao-chu-guo](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/untitled/wei-shen-me-yao-chu-guo)
+[为什么要出国？ - 上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/untitled/wei-shen-me-yao-chu-guo)
 
 关于对未来的规划，欢迎查看[华工手册《立志篇》](https://www.gzic.online/goal)。
 
 以下为语言考试相关内容，请以官方信息为准。
 
-### 语言考试-英语-雅思（IELTS)
+### 语言考试-英语-雅思（IELTS）
 
 时间：机考一般除节假日外每天都有数场，笔考隔周的周六或周日
 
@@ -235,7 +233,7 @@ Task 4
 
 待补充
 
-### 语言考试-德语-德福（TestDaF)
+### 语言考试-德语-德福（TestDaF）
 
 时间：每年三次（3月/7月/11月）
 
@@ -263,11 +261,11 @@ TD 列出华工（国际）近五年的交换/访学/出国/出境深造项目
 
 **互联网范围的资源**例如：B 站、知乎、豆瓣等公共平台
 
-**留学论坛**例如：一亩三分地（[https://www.1point3acres.com](https://www.1point3acres.com)）
+**留学论坛**例如：[一亩三分地](https://www.1point3acres.com)
 
 **本校学生、教授的经验和帮助**
 
-**其他学校学生的经验**例如：南方科技大学飞跃手册（[https://sustech-application.com](https://sustech-application.com)），清华大学飞跃手册（[https://feiyue.online](https://feiyue.online)）
+**其他学校学生的经验**例如：[南方科技大学飞跃手册](https://sustech-application.com/)、[清华大学飞跃手册](https://feiyue.online/)
 
 重要的不是具体例子，希望能启发大家，能从哪些渠道获取信息。
 
@@ -289,7 +287,6 @@ TD 列出华工（国际）近五年的交换/访学/出国/出境深造项目
 
 ### 参考文章
 
-[https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me)
+[你想要做什么 - 上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me)
 
-[https://sustech-application.com/#/grad-application/physics/applied-physics/\[CN\]-16-wanghan](https://sustech-application.com/#/grad-application/physics/applied-physics/\[CN]-16-wanghan)
-
+[\[CN\]-16-王晗 考研 @ 南方科技大学 - 南方科技大学飞跃手册](https://sustech-application.com/#/grad-application/physics/applied-physics/\[CN]-16-wanghan)
