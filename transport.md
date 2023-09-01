@@ -4,7 +4,7 @@
 
 官网可查三个校区的在线地图：[https://map.scut.edu.cn/login\_home.html](https://map.scut.edu.cn/login\_home.html)
 
-<figure><img src=".gitbook/assets/GZIC_campus_map_2308.jpg" alt=""><figcaption><p>（来源华工国际官方微信号“华南理工广州国际校区”）</p></figcaption></figure>
+<figure><img src=".gitbook/assets/GZIC_campus_map_2308.jpg" alt=""><figcaption><p>（来自于微信公众号“华南理工广州国际校区”）</p></figcaption></figure>
 
 暂未搜集到五山校区和大学城校区的官方地图，欢迎补充。
 
