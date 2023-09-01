@@ -18,7 +18,7 @@
 
 [新生攻略 | 第二弹五山攻略篇来啦，还不一键收藏](https://mp.weixin.qq.com/s/\_FScYoth47Ibh0ujFznG3w)
 
-### **大学城**
+### 大学城校区
 
 [微协攻略 | 南校吃喝玩乐篇](https://mp.weixin.qq.com/s/oUIhkvyibUaLRc-nrot-Kw)
 
@@ -34,7 +34,7 @@
 
 还有一些华工文创：例如”广横走“品牌（由2021级设计学院学生创建）。
 
-### 国际校区
+### 广州国际校区
 
 [微协攻略 | 国际校区攻略Ⅰ（学习生活篇）](https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg)
 
@@ -52,19 +52,17 @@
 
 ## 作息表
 
-<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption><p>“华工鲤咕”微信公众号回复”作息表“获取</p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会各校区作息表.png.png" alt="" width="75%"><figcaption><p>“华工鲤咕”微信公众号回复”作息表“获取</p></figcaption></figure>
 
 ## 校历
 
-每年校历可以从官网获得：
-
-[http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011](http://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011)
+每年校历可以从 [教务处/教学日历/学校校历](https://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011) 获得。
 
 ## 网络
 
-三个校区校园里大部分地区都有无线 Wi-Fi “scut” 覆盖，通过统一认证系统登录。免费。
+三个校区校园里大部分地区都有 Wi-Fi 「scut」 覆盖，通过统一认证系统登录。免费。
 
-在宿舍里没有”scut“ ，如有需便要购买宿舍校园网服务，从而使用无线Wi-Fi “scut-student"，通过统一认证系统账号登录，每个用户最多可以同时登录2个无线设备和1台有线设备。
+宿舍校园网服务是收费的。宿舍的 Wi-Fi 是「scut-student」，通过统一认证系统账号登录，每个用户最多可以同时登录2个无线设备和1台有线设备。
 
 iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试访问 [http://captive.apple.com](http://captive.apple.com)以激活验证页面。
 
@@ -90,7 +88,7 @@ iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试�
 
 其中国际校区A4区域的学生有另一种方式——“GZIC智慧服务”小程序，小程序使用方法请看这篇文章：[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
 
-## 失物招领 <a href="#activity-name" id="activity-name"></a>
+## 失物招领
 
 [【包打听】失物招领攻略](https://mp.weixin.qq.com/s/3tgANUec7vRyuBs3t\_PaZA)
 

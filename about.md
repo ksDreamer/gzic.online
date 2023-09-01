@@ -34,7 +34,7 @@
 
 ## 和我们一起完善
 
-本项目开源在 [https://github.com/ksDreamer/gzic.online](https://github.com/ksDreamer/gzic.online)，欢迎大家一起来完善！
+本项目开源在 [ksDreamer/gzic.online - GitHub](https://github.com/ksDreamer/gzic.online)，欢迎大家一起来完善！
 
 参与方式如下：
 
@@ -57,20 +57,20 @@
 
 本项目受启发于以下网址或项目：
 
-* 南科手册（[https://sustech.online](https://sustech.online)）
-* 上海交通大学生存手册（[https://survivesjtu.gitbook.io/survivesjtumanual/](https://survivesjtu.gitbook.io/survivesjtumanual/)）
-* CS 自学指南（[https://csdiy.wiki](https://csdiy.wiki)）
-* 机器人工程师培养计划（[https://zhuanlan.zhihu.com/p/22266788](https://zhuanlan.zhihu.com/p/22266788)）
+* [南科手册](https://sustech.online/)
+* [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
+* [CS 自学指南](https://csdiy.wiki/)
+* [机器人工程师培养计划 - YY硕 - 知乎](https://zhuanlan.zhihu.com/p/22266788)
 
 ## 友链
 
 以下组织或项目也都在做信息聚合、促进信息流通的努力，想造福大家。
 
-* 华南理工大学飞跃手册（[https://kevincats-organization.gitbook.io/flying.gzic.online/](https://kevincats-organization.gitbook.io/flying.gzic.online/)）
-* 南方科技大学飞跃手册（[https://sustech-application.com/#/](https://sustech-application.com/#/)）
-* 清华大学飞跃手册（[https://feiyue.online](https://feiyue.online)）
-* 浙江大学课程攻略共享计划（ [https://qsctech.github.io/zju-icicles/](https://qsctech.github.io/zju-icicles/)）
-* 北洋维基（[https://wiki.tjubot.cn](https://wiki.tjubot.cn)）
+* [华南理工大学飞跃手册](https://kevincats-organization.gitbook.io/flying.gzic.online/)
+* [南方科技大学飞跃手册](https://sustech-application.com/)
+* [清华大学飞跃手册](https://feiyue.online/)
+* [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
+* [北洋维基](https://wiki.tjubot.cn/)
 * 中大民间信息聚合微信公众号“全能小鸭”。
 
 ## 贡献者

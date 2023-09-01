@@ -1,5 +1,5 @@
 ---
-description: 华南理工大学常用的办公行政、后勤、生活服务联系方式和地址汇总，简称黄页。因为编写者主要为国际校区学生，因此可能会有缺漏。
+description: 华南理工大学常用的办公行政、后勤、生活服务联系方式和地址汇总，简称黄页。因为编写者主要为广州国际校区学生，因此信息可能会有缺漏。
 ---
 
 # 黄页
@@ -8,11 +8,11 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 ### 校级
 
-<table><thead><tr><th width="249.99999999999997">名称</th><th width="316">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学官网</td><td><a href="https://www.scut.edu.cn/new/">https://www.scut.edu.cn/new/</a></td><td><img src=".gitbook/assets/image (1).png" alt="" data-size="original"></td></tr><tr><td>华南理工大学广州国际校区</td><td><a href="https://www2.scut.edu.cn/gzic/">https://www2.scut.edu.cn/gzic/</a></td><td><img src=".gitbook/assets/公众号二维码华工国际 (1).bmp" alt=""></td></tr><tr><td>华南理工大学 Bilibili</td><td><a href="https://space.bilibili.com/432093033?spm_id_from=333.337.0.0">https://space.bilibili.com/432093033</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="60%">名称和网址</th><th width="40%">微信公众号</th></tr></thead><tbody><tr><td><a href="https://www.scut.edu.cn/new/">华南理工大学</a></td><td><img src=".gitbook/assets/华南理工大学微信公众号QR码.png" alt data-size="original"></td></tr><tr><td><a href="https://www2.scut.edu.cn/gzic/">华南理工大学广州国际校区</a></td><td><img src=".gitbook/assets/华南理工大学广州国际校区微信公众号QR码.bmp" alt></td></tr><tr><td><a href="https://space.bilibili.com/432093033">华南理工大学 - Bilibili</a></td><td></td></tr></tbody></table>
 
-### 二级单位（院、系、部门）
+### 党政职能部门、院系、直属单位
 
-<table><thead><tr><th>名称</th><th width="274.3333333333333">网址</th><th>微信公众号</th></tr></thead><tbody><tr><td>华南理工大学研究生</td><td><a href="https://www2.scut.edu.cn/graduate/">https://www2.scut.edu.cn/graduate/</a></td><td><img src=".gitbook/assets/image (35).png" alt=""></td></tr><tr><td>华南理工大学招生办</td><td><p>本科招生网：<a href="https://admission.scut.edu.cn">https://admission.scut.edu.cn</a></p><p>研究生招生网：</p><p><a href="https://yz.scut.edu.cn">https://yz.scut.edu.cn</a></p></td><td><img src=".gitbook/assets/image (34).png" alt=""></td></tr><tr><td>华南理工大学图书馆</td><td><a href="http://www.lib.scut.edu.cn">http://www.lib.scut.edu.cn</a></td><td><img src=".gitbook/assets/image (36).png" alt=""></td></tr><tr><td>峻德书院</td><td><a href="https://www2.scut.edu.cn/jdsy/">https://www2.scut.edu.cn/jdsy/</a></td><td><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>铭诚书院</td><td><a href="https://www2.scut.edu.cn/mcsy/">https://www2.scut.edu.cn/mcsy/</a></td><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></td></tr><tr><td>吴贤铭智能工程学院</td><td><a href="https://www2.scut.edu.cn/wusie/">https://www2.scut.edu.cn/wusie/</a></td><td><img src=".gitbook/assets/image (5).png" alt=""></td></tr><tr><td>微电子学院/集成电路学院</td><td><a href="http://www2.scut.edu.cn/microelectronics/">https://www2.scut.edu.cn/microelectronics/</a></td><td><img src=".gitbook/assets/image (6).png" alt=""></td></tr><tr><td>未来技术学院</td><td><a href="http://www2.scut.edu.cn/ft/">https://www2.scut.edu.cn/ft/</a></td><td><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""></td></tr><tr><td>前沿软物质学院</td><td><a href="https://www2.scut.edu.cn/sesm/">https://www2.scut.edu.cn/SESM/</a></td><td><img src=".gitbook/assets/image (4) (1) (1).png" alt=""></td></tr><tr><td>生物医学科学与工程学院</td><td><a href="http://www2.scut.edu.cn/bmse/">https://www2.scut.edu.cn/bmse/</a></td><td><img src=".gitbook/assets/image (7).png" alt=""></td></tr></tbody></table>
+<table><thead><tr><th width="60%">名称和网址</th><th width="40%">微信公众号</th></tr></thead><tbody><tr><td><a href="https://www2.scut.edu.cn/graduate/">华南理工大学研究生院</a></td><td><img src=".gitbook/assets/华南理工大学研究生会微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://admission.scut.edu.cn/">华南理工大学本科招生网</a><br/><a href="https://yz.scut.edu.cn/">华南理工大学研究生招生网</a></td><td><img src=".gitbook/assets/华南理工大学招生办微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/jdsy/">峻德书院</a></td><td><img src=".gitbook/assets/华南理工大学峻德书院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/mcsy/">铭诚书院</a></td><td><img src=".gitbook/assets/华南理工大学铭诚书院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/bmse/">生物医学科学与工程学院</a></td><td><img src=".gitbook/assets/华南理工大学生物医学科学与工程学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/wusie/">吴贤铭智能工程学院</a></td><td><img src=".gitbook/assets/华南理工大学吴贤铭智能工程学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/sesm/">前沿软物质学院</a></td><td><img src=".gitbook/assets/华南理工大学前沿软物质学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/microelectronics/">微电子学院（集成电路学院）</a></td><td><img src=".gitbook/assets/华南理工大学微电子学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/ft/">未来技术学院</a></td><td><img src=".gitbook/assets/华南理工大学未来技术学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="http://www.lib.scut.edu.cn/">华南理工大学图书馆</a></td><td><img src=".gitbook/assets/华南理工大学图书馆微信公众号QR码.png" alt=""></td></tr></tbody></table>
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
@@ -38,7 +38,7 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 2023年3月2日华南理工大学企业微信消息通知栏发过一个通知，提醒同学们“在各大平台出现了一款诱导用户输入我校教务系统账号密码后查询本人课表的小程序”，提醒同学小心泄漏学生账号和密码。请大家注意信息安全。
 
-对学生组织感兴趣的请跳转“[学生组织篇](https://www.gzic.online/organizations)”
+对学生组织感兴趣的请跳转 [学生组织篇](https://www.gzic.online/organizations)
 
 ## 五山校区地址与常用联系方式
 
@@ -146,7 +146,7 @@ APP 后勤报修 -“我的 e 校园”
 | 健身房   | D5g 一楼                                 | <p>7：30-9：00</p><p>15：00-22：00</p>                                                            |
 | 自助打印机 | A4c, A4d, D3d, D5d, D5f, D5g, F3a, F3d | 24小时                                                                                          |
 | 自助洗衣房 | D5e 一楼、D5d 二楼                          | 24小时                                                                                          |
-| 圈存机   | D5d, D5e, D5g, D5f, A4c, A4d (均为一楼）    | 24小时                                                                                          |
+| 圈存机   | D5d, D5e, D5g, D5f, A4c, A4d （均为一楼）    | 24小时                                                                                          |
 | ATM 机 | C3b 二楼师生服务中心、D5e 一楼                    | 24小时                                                                                          |
 
 注：

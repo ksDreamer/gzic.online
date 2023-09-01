@@ -1,6 +1,6 @@
 # 立志篇
 
-欢迎阅读上海交通大学生存手册 （[https://survivesjtu.gitbook.io/survivesjtumanual](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)）
+欢迎阅读 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 
 
 
@@ -20,9 +20,9 @@
 
 当年明月在[《明朝那些事儿》](https://book.douban.com/subject/7163250/)的结尾告诉我们，徐霞客，一届布衣， 仅凭自己能游历天下，遂自己心愿，故虽死无憾。
 
-> Keep looking and don't settle.&#x20;
+> Keep looking and don't settle.
 >
-> Stay Hungry, Stay Foolish.&#x20;
+> Stay Hungry, Stay Foolish.
 
 乔布斯在[2005年斯坦福大学的毕业典礼](https://www.bilibili.com/video/BV1oW411h7Ea)上说，想象如果今天就是你的最后一天，你会怎么过。他说要找到自己愿意做的事情，对世界保持谦逊和好奇。他找到了，并创造出价值。
 
@@ -44,4 +44,4 @@
 
 > 如果你能通过这本册子开始思考你自身以及周围环境，那它的价值就是无上的了。至于说的内容，需要自己去评判。就像有的弯路需要自己走。
 
-[如何看待《上海交通大学生存手册》这本小册子？ - 王韵涵的回答 - 知乎 ](https://www.zhihu.com/question/23633140/answer/46431494)
+[如何看待《上海交通大学生存手册》这本小册子？ - 王韵涵的回答 - 知乎](https://www.zhihu.com/question/23633140/answer/46431494)
