@@ -14,21 +14,23 @@
 
 希望这本小册子和开源开放互助共享的理念能帮到大家。
 
+可以看看这篇介绍文章：[华工手册｜想团结所有华工人](https://mp.weixin.qq.com/s/tq201WeYiMCX8E3AUddjzw)
+
 ## 快捷入口
 
-<a href="freshman.md">新生须知</a>   
-<a href="contacts.md">黄页</a>   
-<a href="study.md">学习篇</a>   
-<a href="life.md">生活篇</a>   
-<a href="organizations.md">学生组织篇</a>   
-<a href="transport.md">交通篇</a>   
-<a href="goal.md">立志篇</a>   
-<a href="future.md">飞跃手册（升学就业相关）</a>   
-<a href="about.md">关于</a>
+[新生须知](freshman.md)\
+[黄页](contacts.md)\
+[学习篇](study.md)\
+[生活篇](life.md)\
+[学生组织篇](organizations.md)\
+[交通篇](transport.md)\
+[立志篇](goal.md)\
+[飞跃手册（升学就业相关）](future.md)\
+[关于](about.md)
 
 ## 内容更新和传播
 
-**华工手册的互联网地址是** [**www.gzic.online**](https://www.gzic.online)
+**华工手册的互联网地址是** [**https://www.gzic.online**](https://www.gzic.online)
 
 **项目开源地址是** [**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
 
