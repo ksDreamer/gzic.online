@@ -73,6 +73,20 @@ SK于2019年国际校区的第一批本科生入住时正式进入国际校区�
 
 <figure><img src=".gitbook/assets/国际星喵守护者联盟.png" alt="" width="50%"><figcaption></figcaption></figure>
 
+## 大学城校区
+
+### 量化投资协会
+
+量化投资协会是一个base在大学城的学生组织，目前主要进行p-quant的研究和学习。目前协会内有2人成为[WorldQuant](https://www.worldquant.com/)的研究顾问, 协会成员在WorldQuant IQC、WorldQuant ACE、美赛、APMCM、互联网+、全国研究生金融科技大赛、全国大学生基金知识竞赛、阿里云杯程序设计大赛等比赛中屡获佳绩，并开源有[scutquant](https://github.com/HaoningChen/scutquant)作为协会学习和对外交流的平台  
+
+部分荣誉展示  
+![gold](https://github.com/HaoningChen/gzic.online/assets/101194077/f1363184-f92f-4f57-aeac-a2458bb7573b)
+
+协会内部分为三个部门：技术部，宣传部和运营部, 欢迎扫码关注协会公众号以了解更多信息！
+
+![qrcode](https://github.com/HaoningChen/gzic.online/assets/101194077/35f1c068-418e-4f14-bf89-482f962711d0)
+
+
 ## 欢迎投稿
 
 欢迎三个校区各个学生组织、社团投稿，投稿方式详见[关于](https://www.gzic.online/about)
