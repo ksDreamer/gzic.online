@@ -10,11 +10,11 @@
 
 由“华南鲤咕”出品的三校区地图：
 
-<figure><img src=".gitbook/assets/华工微博协会五山校区地图.png" alt="" width="75%"><figcaption><a href="https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ">微协攻略 | 五山宿舍生存指南</a></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会五山校区地图.png" alt="" width="75%"><figcaption><p><a href="https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ">微协攻略 | 五山宿舍生存指南</a></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/华工微博协会大学城校区地图.png" alt="" width="75%"><figcaption><a href="https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw">微协攻略 | 南校住行攻略</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会大学城校区地图.png" alt="" width="75%"><figcaption><p><a href="https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw">微协攻略 | 南校住行攻略</a></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/华工微博协会广州国际校区地图.png" alt="" width="75%"><figcaption><a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">微协攻略 | 国际校区攻略Ⅰ（学习生活篇）</a></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会广州国际校区地图.png" alt="" width="75%"><figcaption><p><a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">微协攻略 | 国际校区攻略Ⅰ（学习生活篇）</a></p></figcaption></figure>
 
 国际校区南北朝向，从西向东分别以 A 到 G 排序，从南到北以 1 到 6 排序，例如图书馆，就位于 E3 的位置。
 
@@ -50,13 +50,14 @@
 
 1. 地铁：西北门打网约车/骑共享单车至板桥/新造地铁站出行。
 2. 通过通勤校巴前往另外两个校区再出行。例如要去天河区可以先搭乘校巴到五山校区，省时省心省力省钱。
-3. 公交：可参照上述方案，另外国际校区于2023年开通了校园巴士[（校区通知）](https://www2.scut.edu.cn/gzic/2023/0831/c30280a517336/page.htm)，新造-公交总站双向发车，公交总站—新造地铁站线路服务时间为7:30-20:30，每逢半点发车；新造地铁站—公交总站线路服务时间为8:00-21:00，每逢整点发车。站点图如下：
-   ![GZIC_bus_station](.gitbook/assets/GZIC_bus_station.jpg)
+3.  公交：可参照上述方案，另外国际校区于2023年开通了校园巴士[（校区通知）](https://www2.scut.edu.cn/gzic/2023/0831/c30280a517336/page.htm)，新造-公交总站双向发车，公交总站—新造地铁站线路服务时间为7:30-20:30，每逢半点发车；新造地铁站—公交总站线路服务时间为8:00-21:00，每逢整点发车。站点图如下：&#x20;
+
+    <figure><img src=".gitbook/assets/GZIC_bus_station.jpg" alt=""><figcaption></figcaption></figure>
 
 校区内与校区间往返校巴运行时间表的准确时间请关注学校官网。
 
 也可以关注由各学生组织制作的信息汇总表。例如以下资料来源于“华南鲤咕“微信公众号。
 
-<figure><img src=".gitbook/assets/华工微博协会广州国际校区交通攻略.png" alt=""><figcaption><a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">微协攻略 | 国际校区攻略Ⅰ（学习生活篇）</a></figcaption></figure>
+<figure><img src=".gitbook/assets/华工微博协会广州国际校区交通攻略.png" alt=""><figcaption><p><a href="https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg">微协攻略 | 国际校区攻略Ⅰ（学习生活篇）</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/华工微博协会校区间交通车时刻表.png" alt=""><figcaption><p>“华南鲤咕“微信公众号后台回复”校巴“获得</p></figcaption></figure>

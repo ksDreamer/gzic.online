@@ -54,9 +54,9 @@
 
 ## 内容更新和传播
 
-**华工手册的互联网地址是**[**www.gzic.online**](https://www.gzic.online)
+**华工手册的互联网地址是** [**www.gzic.online**](https://www.gzic.online)
 
-**项目开源地址是**[**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
+**项目开源地址是** [**https://github.com/ksDreamer/gzic.online**](https://github.com/ksDreamer/gzic.online)
 
 **也可以扫描二维码访问华工手册：**
 
@@ -64,7 +64,11 @@
 
 社交媒体的普及使传统网站难有持续的关注，因此我们也用社交媒体渠道来同步更新。
 
-<table><thead><tr><th width="80%">名称</th><th width="20%">二维码</th></tr></thead><tbody><tr><td>GZIC 小圈微信公众号，会发一些推文，靠这个来同步校园信息。</td><td><img src=".gitbook/assets/GZIC小圈微信公众号QR码.png" alt=""></td></tr><tr><td>小圈微信号，平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。</td><td><img src=".gitbook/assets/GZIC小圈微信QR码.png" alt=""></td></tr><tr><td>华工手册共建群（QQ 群）长期有效的反馈和沟通渠道。群号：850188565</td><td><img src=".gitbook/assets/华工手册共建群QQ群QR码.jpg" alt=""></td></tr></tbody></table>
+| 名称                                          | 二维码                                     |
+| ------------------------------------------- | --------------------------------------- |
+| GZIC 小圈微信公众号，会发一些推文，靠这个来同步校园信息。             | ![](.gitbook/assets/GZIC小圈微信公众号QR码.png) |
+| 小圈微信号，平时会在朋友圈分享国际校区的一些信息，大家有什么想知道的也可以在微信交流。 | ![](.gitbook/assets/GZIC小圈微信QR码.png)    |
+| 华工手册共建群（QQ 群）长期有效的反馈和沟通渠道。群号：850188565      | ![](.gitbook/assets/华工手册共建群QQ群QR码.jpg)  |
 
 ### 如何参与华工手册建设
 

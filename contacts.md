@@ -8,11 +8,26 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 ### 校级
 
-<table><thead><tr><th width="60%">名称和网址</th><th width="40%">微信公众号</th></tr></thead><tbody><tr><td><a href="https://www.scut.edu.cn/new/">华南理工大学</a></td><td><img src=".gitbook/assets/华南理工大学微信公众号QR码.png" alt data-size="original"></td></tr><tr><td><a href="https://www2.scut.edu.cn/gzic/">华南理工大学广州国际校区</a></td><td><img src=".gitbook/assets/华南理工大学广州国际校区微信公众号QR码.bmp" alt></td></tr><tr><td><a href="https://space.bilibili.com/432093033">华南理工大学 - Bilibili</a></td><td></td></tr></tbody></table>
+| 名称和网址                                                     | 微信公众号                                                                      |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [华南理工大学](https://www.scut.edu.cn/new/)                    | <img src=".gitbook/assets/华南理工大学微信公众号QR码.png" alt="" data-size="original"> |
+| [华南理工大学广州国际校区](https://www2.scut.edu.cn/gzic/)            | ![](.gitbook/assets/华南理工大学广州国际校区微信公众号QR码.bmp)                              |
+| [华南理工大学 - Bilibili](https://space.bilibili.com/432093033) |                                                                            |
 
 ### 党政职能部门、院系、直属单位
 
-<table><thead><tr><th width="60%">名称和网址</th><th width="40%">微信公众号</th></tr></thead><tbody><tr><td><a href="https://www2.scut.edu.cn/graduate/">华南理工大学研究生院</a></td><td><img src=".gitbook/assets/华南理工大学研究生会微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://admission.scut.edu.cn/">华南理工大学本科招生网</a><br/><a href="https://yz.scut.edu.cn/">华南理工大学研究生招生网</a></td><td><img src=".gitbook/assets/华南理工大学招生办微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/jdsy/">峻德书院</a></td><td><img src=".gitbook/assets/华南理工大学峻德书院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/mcsy/">铭诚书院</a></td><td><img src=".gitbook/assets/华南理工大学铭诚书院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/bmse/">生物医学科学与工程学院</a></td><td><img src=".gitbook/assets/华南理工大学生物医学科学与工程学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/wusie/">吴贤铭智能工程学院</a></td><td><img src=".gitbook/assets/华南理工大学吴贤铭智能工程学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/sesm/">前沿软物质学院</a></td><td><img src=".gitbook/assets/华南理工大学前沿软物质学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/microelectronics/">微电子学院（集成电路学院）</a></td><td><img src=".gitbook/assets/华南理工大学微电子学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="https://www2.scut.edu.cn/ft/">未来技术学院</a></td><td><img src=".gitbook/assets/华南理工大学未来技术学院微信公众号QR码.png" alt=""></td></tr><tr><td><a href="http://www.lib.scut.edu.cn/">华南理工大学图书馆</a></td><td><img src=".gitbook/assets/华南理工大学图书馆微信公众号QR码.png" alt=""></td></tr></tbody></table>
+| 名称和网址                                                                                                                 | 微信公众号                                              |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [华南理工大学研究生院](https://www2.scut.edu.cn/graduate/)                                                                      | ![](.gitbook/assets/华南理工大学研究生会微信公众号QR码.png)        |
+| <p><a href="https://admission.scut.edu.cn/">华南理工大学本科招生网</a><br><a href="https://yz.scut.edu.cn/">华南理工大学研究生招生网</a></p> | ![](.gitbook/assets/华南理工大学招生办微信公众号QR码.png)         |
+| [峻德书院](https://www2.scut.edu.cn/jdsy/)                                                                                | ![](.gitbook/assets/华南理工大学峻德书院微信公众号QR码.png)        |
+| [铭诚书院](https://www2.scut.edu.cn/mcsy/)                                                                                | ![](.gitbook/assets/华南理工大学铭诚书院微信公众号QR码.png)        |
+| [生物医学科学与工程学院](https://www2.scut.edu.cn/bmse/)                                                                         | ![](.gitbook/assets/华南理工大学生物医学科学与工程学院微信公众号QR码.png) |
+| [吴贤铭智能工程学院](https://www2.scut.edu.cn/wusie/)                                                                          | ![](.gitbook/assets/华南理工大学吴贤铭智能工程学院微信公众号QR码.png)   |
+| [前沿软物质学院](https://www2.scut.edu.cn/sesm/)                                                                             | ![](.gitbook/assets/华南理工大学前沿软物质学院微信公众号QR码.png)     |
+| [微电子学院（集成电路学院）](https://www2.scut.edu.cn/microelectronics/)                                                           | ![](.gitbook/assets/华南理工大学微电子学院微信公众号QR码.png)       |
+| [未来技术学院](https://www2.scut.edu.cn/ft/)                                                                                | ![](.gitbook/assets/华南理工大学未来技术学院微信公众号QR码.png)      |
+| [华南理工大学图书馆](http://www.lib.scut.edu.cn/)                                                                              | ![](.gitbook/assets/华南理工大学图书馆微信公众号QR码.png)         |
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
@@ -24,7 +39,7 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 | ---------------- | ------------------------------------- |
 | 华南理工大学学生会        | ![](<.gitbook/assets/image (40).png>) |
 | SCUT学生创新俱乐部      | ![](<.gitbook/assets/image (39).png>) |
-| 华工百步梯            | ![](.gitbook/assets/image.png)        |
+| 华工百步梯            | ![](<.gitbook/assets/image (2).png>)  |
 | 华南鲤咕（原华工微博协会）    | ![](<.gitbook/assets/image (37).png>) |
 | 鲤工包打听（原华工包打听）    | ![](<.gitbook/assets/image (38).png>) |
 | 小灯神GENIE（原华工小灯神） | ![](<.gitbook/assets/image (41).png>) |

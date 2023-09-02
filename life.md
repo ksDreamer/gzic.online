@@ -46,13 +46,11 @@
 
 [国际校区黄页 | 常用地址和联系方式汇总](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
 
-
-
 新资讯不一定能及时收录，因此掌握长期稳定的信息渠道比收集具体一两篇文章要重要得多。
 
 ## 作息表
 
-<figure><img src=".gitbook/assets/华工微博协会各校区作息表.png.png" alt="" width="75%"><figcaption><p>“华工鲤咕”微信公众号回复”作息表“获取</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## 校历
 
@@ -64,7 +62,7 @@
 
 宿舍校园网服务是收费的。宿舍的 Wi-Fi 是「scut-student」，通过统一认证系统账号登录，每个用户最多可以同时登录2个无线设备和1台有线设备。
 
-iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试访问 [http://captive.apple.com](http://captive.apple.com)以激活验证页面。
+iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试访问 [http://captive.apple.com](http://captive.apple.com) 以激活验证页面。
 
 ### 如何开网
 
@@ -159,7 +157,5 @@ D5e 一楼的一站式服务中心可以提供很多帮助，可以借到小型�
 乒乓球台、网球场等可能需要预约，预约方式是去 D5e 一楼的一站式服务中心填表。
 
 各设施的地址请跳转[黄页篇](https://www.gzic.online/contacts)
-
-
 
 **欢迎投稿补充！**
