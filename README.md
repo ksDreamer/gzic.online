@@ -16,7 +16,15 @@
 
 ## 快捷入口
 
-<a href="freshman.md">新生须知</a>   <a href="contacts.md">黄页</a>   <a href="study.md">学习篇</a>   <a href="life.md">生活篇</a>   <a href="organizations.md">学生组织篇</a>   <a href="transport.md">交通篇</a>   <a href="goal.md">立志篇</a>   <a href="future.md">飞跃手册（升学就业相关）</a>   <a href="about.md">关于</a>
+<a href="freshman.md">新生须知</a>   
+<a href="contacts.md">黄页</a>   
+<a href="study.md">学习篇</a>   
+<a href="life.md">生活篇</a>   
+<a href="organizations.md">学生组织篇</a>   
+<a href="transport.md">交通篇</a>   
+<a href="goal.md">立志篇</a>   
+<a href="future.md">飞跃手册（升学就业相关）</a>   
+<a href="about.md">关于</a>
 
 ## 内容更新和传播
 
