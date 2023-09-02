@@ -14,44 +14,6 @@
 
 希望这本小册子和开源开放互助共享的理念能帮到大家。
 
-## 快捷入口
-
-{% content-ref url="freshman.md" %}
-[freshman.md](freshman.md)
-{% endcontent-ref %}
-
-{% content-ref url="contacts.md" %}
-[contacts.md](contacts.md)
-{% endcontent-ref %}
-
-{% content-ref url="study.md" %}
-[study.md](study.md)
-{% endcontent-ref %}
-
-{% content-ref url="life.md" %}
-[life.md](life.md)
-{% endcontent-ref %}
-
-{% content-ref url="organizations.md" %}
-[organizations.md](organizations.md)
-{% endcontent-ref %}
-
-{% content-ref url="transport.md" %}
-[transport.md](transport.md)
-{% endcontent-ref %}
-
-{% content-ref url="goal.md" %}
-[goal.md](goal.md)
-{% endcontent-ref %}
-
-{% content-ref url="future.md" %}
-[future.md](future.md)
-{% endcontent-ref %}
-
-{% content-ref url="about.md" %}
-[about.md](about.md)
-{% endcontent-ref %}
-
 ## 内容更新和传播
 
 **华工手册的互联网地址是**[**www.gzic.online**](https://www.gzic.online)
