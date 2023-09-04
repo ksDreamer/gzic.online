@@ -10,6 +10,7 @@
   * [前沿软物质学院](study/qian-yan-ruan-wu-zhi-xue-yuan.md)
   * [微电子和集成电路学院](study/wei-dian-zi-he-ji-cheng-dian-lu-xue-yuan.md)
 * [生活篇](life.md)
+* [校园文化篇](cultures.md)
 * [学生组织篇](organizations.md)
 * [交通篇](transport.md)
 * [立志篇](goal.md)
