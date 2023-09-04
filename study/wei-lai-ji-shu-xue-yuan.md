@@ -18,6 +18,7 @@
 2.  [《高等数学》同济版 全程教学视频（宋浩老师）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Eb411u7Fw/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=96410d0e59707e56d751945dbaf45577)
 
     大名鼎鼎无需过多介绍，如果觉得学校老师讲的不太好看网课就行了。
+3. [【【梨米特】同济七版《高等数学》全程教学视频｜纯干货知识点解析，应该是全网最细｜微积分 | 高数】](https://www.bilibili.com/video/BV1864y1T7Ks/?share_source=copy_web&vd_source=61e02a1fec62dd7a0c499c771bdbd832)
 
 ### 线性代数
 
@@ -25,9 +26,13 @@
 
 #### 资源推荐
 
-[《线性代数》高清教学视频 “惊叹号”系列 宋浩老师\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1aW411Q7x1/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=96410d0e59707e56d751945dbaf45577)
-
+- [《线性代数》高清教学视频 “惊叹号”系列 宋浩老师\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1aW411Q7x1/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=96410d0e59707e56d751945dbaf45577)
 PS：宋浩老师的课程我都没有看过，但是同学们都说挺好，如果觉得看课件看不懂的同学可以按所需知识点选择性观看，从头看到尾太浪费时间了。
+
+- [线性代数，强烈推荐秦静！附B站链接](https://www.bilibili.com/video/BV1xJ411M7Rz/?spm_id_from=333.337.top_right_bar_window_default_collection.content.click&vd_source=0fa6d92f6998901bac588eddcd83884f)
+PS:22级人工智能线性代数教学班rank1，rank2力荐
+
+- [概念直观理解：【熟肉】线性代数的本质-3Blue1Brown](https://www.bilibili.com/video/BV1Ys411k7yQ/?spm_id_from=333.337.search-card.all.click)
 
 ### C++
 
@@ -39,11 +44,24 @@ PS：这门课学校配套的课本我没有翻开过一次。
 
 1. [C++ Primer 中文版（第 5 版） (豆瓣) (douban.com)](https://book.douban.com/subject/25708312/) C++入门经典，英语好的同学可以看英文版本的书籍。
 2. [applenob/Cpp\_Primer\_Practice: 搞定C++。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。 (github.com)](https://github.com/applenob/Cpp\_Primer\_Practice) 可以配套开源仓库观看
+3. [学堂在线清华大学C++](https://www.xuetangx.com/learn/THU08091000247/THU08091000247/16906211/video/36176215)
+4. [c++看黑马程序员【黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难】](https://www.bilibili.com/video/BV1et411b73Z/?share_source=copy_web&vd_source=61e02a1fec62dd7a0c499c771bdbd832)
+无编程基础可看，22级人工智能C++教学班rank1推荐（同无编程基础）
 
 在学习完基本的语法后，推荐采用一些算法题的**刷题平台**巩固知识点。
 
 1. [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode.cn/) ~~找工作必备~~
 2. [首页 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/)
+
+
+### 概率论
+(待补充)
+这门课学习的时候需要特别注意一下中文教材和英文教材的内容区别（如假设检验和区间估计）
+
+#### 资源推荐
+
+- [梨米特概率论](https://www.bilibili.com/video/BV1D741147G5/?spm_id_from=333.337.search-card.all.click&vd_source=0fa6d92f6998901bac588eddcd83884f)
+22级人工智能概率论教学班rk1,rk2,rk3力荐！
 
 ### Python
 
@@ -55,6 +73,15 @@ PS：这门课学校配套的课本我没有翻开过一次。
 
 1. [jackfrued/Python-100-Days: Python - 100天从新手到大师 (github.com)](https://github.com/jackfrued/Python-100-Days)
 2. [Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills (github.com)](https://github.com/Python-World/python-mini-projects)
+
+
+### 大学物理
+
+(待补充)
+
+#### 资源推荐
+
+- [【【大学物理】东北大学-马文蔚】](https://www.bilibili.com/video/BV1qW411H7UX/?share_source=copy_web&vd_source=61e02a1fec62dd7a0c499c771bdbd832)
 
 ### 人工智能
 
