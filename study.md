@@ -14,7 +14,7 @@
 
 点击[华南理工大学](https://www.scut.edu.cn/new/)官网右上角的「门户」进入[统一门户](https://my.scut.edu.cn/up/)。
 
-<figure><img src=".gitbook/assets/华南理工大学统一门户20230818234043.png" alt=""><figcaption>统一门户</figcaption></figure>
+<figure><img src=".gitbook/assets/华南理工大学统一门户20230818234043.png" alt=""><figcaption><p>统一门户</p></figcaption></figure>
 
 点击右侧「教务服务」中第二项「教务系统（学生端）」进入。
 
@@ -28,15 +28,11 @@
 
 培养方案/培养计划可以从各学院官网的本科生培养计划中获取，例如：
 
-- [生物医学科学与工程学院/招生培养/本科生培养/专业介绍](https://www2.scut.edu.cn/bmse/zyjs/list.htm)
-
-- [吴贤铭智能工程学院/人才培养/本科生教育/培养计划](https//www2.scut.edu.cn/wusie/34049/list.htm)
-
-- [前沿软物质学院/本科生教育/招生专业](https://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp)
-
-- [微电子学院/招生培养/本科生培养/培养计划](https://www2.scut.edu.cn/microelectronics/pyjh/list.htm)
-
-- [未来技术学院/招生与培养/本科生招生与培养/培养计划](https://www2.scut.edu.cn/ft/pyjh/list.htm)
+* [生物医学科学与工程学院/招生培养/本科生培养/专业介绍](https://www2.scut.edu.cn/bmse/zyjs/list.htm)
+* [吴贤铭智能工程学院/人才培养/本科生教育/培养计划](https/www2.scut.edu.cn/wusie/34049/list.htm)
+* [前沿软物质学院/本科生教育/招生专业](https://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp)
+* [微电子学院/招生培养/本科生培养/培养计划](https://www2.scut.edu.cn/microelectronics/pyjh/list.htm)
+* [未来技术学院/招生与培养/本科生招生与培养/培养计划](https://www2.scut.edu.cn/ft/pyjh/list.htm)
 
 ## 课程简介和教学大纲
 
@@ -82,9 +78,13 @@ AI 技术蓬勃发展，自然语言处理（NLP）技术发展日益成熟，�
 
 ### 学习经验分享（TD）
 
-来自学院、书院、学生组织和个人的分享汇总。
+来自学院、书院、学生组织和个人的分享汇总。主题包含：课内学习、科研、竞赛等。
+
+欢迎查看学创每年的新生手册：[23级新生指南《维特鲁威》来啦！](https://mp.weixin.qq.com/s/hFHxhKvrGdRdwInxa0wt3Q)
 
 欢迎查看[飞跃手册](https://www.gzic.online/future)。
+
+欢迎投稿！
 
 ## 专业介绍和认知
 
