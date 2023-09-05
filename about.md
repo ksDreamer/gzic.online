@@ -79,6 +79,10 @@
 
 开发维护：
 
+[![GitHub contributors](https://img.shields.io/github/contributors/ksDreamer/gzic.online.svg)](https://github.com/ksDreamer/gzic.online)
+
+[https://github.com/ksDreamer/gzic.online/graphs/contributors](https://github.com/ksDreamer/gzic.online/graphs/contributors)
+
 内容提供：
 
 * GZIC小圈
