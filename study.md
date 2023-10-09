@@ -29,7 +29,7 @@
 培养方案/培养计划可以从各学院官网的本科生培养计划中获取，例如：
 
 * [生物医学科学与工程学院/招生培养/本科生培养/专业介绍](https://www2.scut.edu.cn/bmse/zyjs/list.htm)
-* [吴贤铭智能工程学院/人才培养/本科生教育/培养计划](https/www2.scut.edu.cn/wusie/34049/list.htm)
+* [吴贤铭智能工程学院/人才培养/本科生教育/培养计划](http://www2.scut.edu.cn/wusie/34049/list.htm)
 * [前沿软物质学院/本科生教育/招生专业](https://www2.scut.edu.cn/SESM/\_t3640/33029/list.psp)
 * [微电子学院/招生培养/本科生培养/培养计划](https://www2.scut.edu.cn/microelectronics/pyjh/list.htm)
 * [未来技术学院/招生与培养/本科生招生与培养/培养计划](https://www2.scut.edu.cn/ft/pyjh/list.htm)
