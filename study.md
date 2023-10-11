@@ -84,6 +84,8 @@ AI 技术蓬勃发展，自然语言处理（NLP）技术发展日益成熟，�
 
 欢迎查看[飞跃手册](https://www.gzic.online/future)。
 
+欢迎寻找前辈们留下的学习经验，例如[圣华南理工大学-电信学院-青春修炼手册](https://github.com/Sampson-Lee/SCUT\_EE\_Training)
+
 欢迎投稿！
 
 ## 专业介绍和认知
