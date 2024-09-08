@@ -16,19 +16,19 @@ description: 华南理工大学常用的办公行政、后勤、生活服务联�
 
 ### 党政职能部门、院系、直属单位
 
-| 名称和网址                                                   | 微信公众号                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [华南理工大学研究生院](https://www2.scut.edu.cn/graduate/)   | ![](.gitbook/assets/华南理工大学研究生会微信公众号QR码.png)  |
-| <p><a href="https://admission.scut.edu.cn/">华南理工大学本科招生网</a><br><a href="https://yz.scut.edu.cn/">华南理工大学研究生招生网</a></p> | ![](.gitbook/assets/华南理工大学招生办微信公众号QR码.png)    |
-| [峻德书院](https://www2.scut.edu.cn/jdsy/)                   | ![](.gitbook/assets/华南理工大学峻德书院微信公众号QR码.png)  |
-| [铭诚书院](https://www2.scut.edu.cn/mcsy/)                   | ![](.gitbook/assets/华南理工大学铭诚书院微信公众号QR码.png)  |
-| [生物医学科学与工程学院](https://www2.scut.edu.cn/bmse/)     | ![](.gitbook/assets/华南理工大学生物医学科学与工程学院微信公众号QR码.png) |
-| [吴贤铭智能工程学院](https://www2.scut.edu.cn/wusie/)        | ![](.gitbook/assets/华南理工大学吴贤铭智能工程学院微信公众号QR码.png) |
-| [前沿软物质学院](https://www2.scut.edu.cn/sesm/)             | ![](.gitbook/assets/华南理工大学前沿软物质学院微信公众号QR码.png) |
-| [微电子学院（集成电路学院）](https://www2.scut.edu.cn/microelectronics/) | ![](.gitbook/assets/华南理工大学微电子学院微信公众号QR码.png) |
-| [未来技术学院](https://www2.scut.edu.cn/ft/)                 | ![](.gitbook/assets/华南理工大学未来技术学院微信公众号QR码.png) |
-| [海洋科学与工程学院](https://www2.scut.edu.cn/marine/)       | ![](.gitbook/assets/华南理工大学海洋科学与工程学院微信公众号QR码.png) |
-| [华南理工大学图书馆](http://www.lib.scut.edu.cn/)            | ![](.gitbook/assets/华南理工大学图书馆微信公众号QR码.png)    |
+| 名称和网址                                                                                                                 | 微信公众号                                              |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [华南理工大学研究生院](https://www2.scut.edu.cn/graduate/)                                                                      | ![](.gitbook/assets/华南理工大学研究生会微信公众号QR码.png)        |
+| <p><a href="https://admission.scut.edu.cn/">华南理工大学本科招生网</a><br><a href="https://yz.scut.edu.cn/">华南理工大学研究生招生网</a></p> | ![](.gitbook/assets/华南理工大学招生办微信公众号QR码.png)         |
+| [峻德书院](https://www2.scut.edu.cn/jdsy/)                                                                                | ![](.gitbook/assets/华南理工大学峻德书院微信公众号QR码.png)        |
+| [铭诚书院](https://www2.scut.edu.cn/mcsy/)                                                                                | ![](.gitbook/assets/华南理工大学铭诚书院微信公众号QR码.png)        |
+| [生物医学科学与工程学院](https://www2.scut.edu.cn/bmse/)                                                                         | ![](.gitbook/assets/华南理工大学生物医学科学与工程学院微信公众号QR码.png) |
+| [吴贤铭智能工程学院](https://www2.scut.edu.cn/wusie/)                                                                          | ![](.gitbook/assets/华南理工大学吴贤铭智能工程学院微信公众号QR码.png)   |
+| [前沿软物质学院](https://www2.scut.edu.cn/sesm/)                                                                             | ![](.gitbook/assets/华南理工大学前沿软物质学院微信公众号QR码.png)     |
+| [微电子学院（集成电路学院）](https://www2.scut.edu.cn/microelectronics/)                                                           | ![](.gitbook/assets/华南理工大学微电子学院微信公众号QR码.png)       |
+| [未来技术学院](https://www2.scut.edu.cn/ft/)                                                                                | ![](.gitbook/assets/华南理工大学未来技术学院微信公众号QR码.png)      |
+| [海洋科学与工程学院](https://www2.scut.edu.cn/marine/)                                                                         | ![](.gitbook/assets/华南理工大学海洋科学与工程学院微信公众号QR码.png)   |
+| [华南理工大学图书馆](http://www.lib.scut.edu.cn/)                                                                              | ![](.gitbook/assets/华南理工大学图书馆微信公众号QR码.png)         |
 
 注意：统一门户、教务系统、办事大厅等网站在华南理工大学官网右上角点击“门户”登陆学生帐号进入
 
@@ -177,7 +177,7 @@ APP 后勤报修 -“我的 e 校园”
 
 ### 常用 Q 群
 
-<table><thead><tr><th width="238">名称</th><th width="263">群号</th><th>二维码</th></tr></thead><tbody><tr><td>GZIC 跳蚤市场</td><td>153583134</td><td><img src=".gitbook/assets/image (2) (1) (1).png" alt=""></td></tr><tr><td>GZIC 拼车群</td><td>620601382</td><td><img src=".gitbook/assets/image (3) (1).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="238">名称</th><th width="263">群号</th><th>二维码</th></tr></thead><tbody><tr><td>GZIC 跳蚤市场-2</td><td>628811866</td><td><img src=".gitbook/assets/021f7d22252bc23709315fb2d95a5e66.png" alt="" data-size="original"></td></tr><tr><td>GZIC 拼车群</td><td>620601382</td><td><img src=".gitbook/assets/image (3) (1).png" alt=""></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 注：
 

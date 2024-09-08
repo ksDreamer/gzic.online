@@ -34,6 +34,8 @@
 
 还有一些华工文创：例如”广横走“品牌（由2021级设计学院学生创建）。
 
+
+
 ### 广州国际校区
 
 [微协攻略 | 国际校区攻略Ⅰ（学习生活篇）](https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg)
@@ -45,6 +47,10 @@
 [GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
 
 [国际校区黄页 | 常用地址和联系方式汇总](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
+
+国际校区每一年变化都很大，例如本项目发布的2023年9月还没有E5双创中心，现在的E5一楼已经成为商业街了，可以多关注社媒等发布渠道，例如这篇：[GZIC持续“上新”！新学期惊喜为你揭晓](https://mp.weixin.qq.com/s/5VPaGcnUpeHbwY7ZSvZv9w)
+
+
 
 新资讯不一定能及时收录，因此掌握长期稳定的信息渠道比收集具体一两篇文章要重要得多。
 
